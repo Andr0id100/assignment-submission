@@ -1,0 +1,2348 @@
+conversation_id,tag
+0,Store Early Closure
+1,repeat purchases
+2,Stress & Anxiety Supplements
+3,Store Staff Service
+4,hair products
+5,convenient location
+6,Positive Customer Feedback on Vitamin B Complex for Energy
+7,Store Feedback
+8,Store Early Closure
+9,Store Early Closure
+10,Pricing and Promotions
+11,Pricing and Promotions
+12,Subscription Order Delay/Backorder
+13,App Crashing
+14,Fast Delivery Praise
+15,Coupon Issues
+16,Product Mislabeling/Discrepancy
+17,Damaged Protein Powder Orders
+18,Order Issues
+19,Stress & Anxiety Supplements
+20,allergy-sensitive products
+21,Vitamin Tablet Ingredients
+22,Sales Pressure/Unwanted Purchases
+23,Online Ordering Issue
+24,"""Out of Stock Inquiry - Relaxing Herbal Blend"""
+25,Customer Feedback: Organic Skincare Expansion Request
+26,packaging issues
+27,Supplement Dosage Clarification
+28,Product Recommendations
+29,Store Staff Feedback
+30,Hair Color Product Availability
+31,expiration date issues
+32,Order Delays
+33,value for money
+34,Hair Growth Products
+35,Customer Appreciation
+36,Coupon Issues
+37,Subscribe & Save Omega-3 Backorder
+38,Follow-up Issues
+39,Product Refunds
+40,order not received
+41,Incomplete Orders
+42,Store Early Closure
+43,Transparency Issues
+44,Joint Supplements
+45,Order Cancellation
+46,Order Issues
+47,long wait times
+48,Customer Appreciation
+49,store display
+50,Order Delays
+51,Pricing and Promotions
+52,Delivery Address Update
+53,Rewards Points Issues
+54,Order Issues
+55,Positive Recommendations
+56,Voucher Issues
+57,Hair Growth Supplements and Complementary Products
+58,online ordering
+59,Order Delays
+60,promotion and offers
+61,Store Staff Feedback
+62,incorrect orders
+63,Pricing Issues
+64,Card Payment Issues
+65,Damaged Orders
+66,Store Staff Feedback
+67,health products
+68,Misleading Product Information Leading to Order Refund
+69,Omega-3 Supplement Nutritional Information Inquiry
+70,Customer Complaints
+71,Pricing issues
+72,promotion and offers
+73,Order Cancellation
+74,Order Collection Issues
+75,Delivery Address Update
+76,incomplete orders
+77,Coupon Issues
+78,Follow-up Issues
+79,organic products
+80,Delivery Address Update
+81,Order Fulfillment Issue
+82,Missing Online Nutritional Information
+83,Order Collection Issues
+84,Nutritional Information Inaccuracy
+85,accurate product information
+86,Product Recommendations
+87,Expired Products
+88,Damaged Bottles
+89,in-store issues
+90,BCAA Supplement Inquiry
+91,Positive Staff Feedback
+92,Rewards Points Issues
+93,Payment Issues
+94,Vegan Vitamin & Mineral Supplement Recommendation
+95,International Shipping Delay
+96,Order Delays
+97,Positive Staff Feedback
+98,Expert Guidance
+99,product effectiveness
+100,promotions and offers
+101,Store Staff Feedback
+102,Rewards Points Issues
+103,discount appreciation
+104,Poor Store Service
+105,Voucher Redemption Issues
+106,Discount Appreciation and Herbal Tea Customer Feedback
+107,App Account Issues
+108,promotions and offers
+109,BOGO Confusion
+110,Sports Nutrition Product Inquiry
+111,Positive Customer Feedback
+112,Order Issues
+113,Digestive Health Product Inquiry
+114,order status updates
+115,Order Refunds
+116,inconsistent experience
+117,Protein Powder Recommendations
+118,Order Confirmation Issues
+119,Damaged Protein Powder Orders
+120,Positive Staff Feedback
+121,Vegan snacks
+122,Order Tracking
+123,Order Delays & Communication Issues
+124,Complaint Resolution
+125,trustworthy products
+126,Product Authenticity Verification
+127,Order not received
+128,complaint resolution
+129,miscommunication
+130,Order Refunds
+131,discrimination
+132,accurate product information
+133,Positive Staff Feedback
+134,customer value
+135,Vitamin D Deficiency & Supplementation
+136,Coupon Issues
+137,Positive Feedback
+138,Payment Issues
+139,Customer Feedback
+140,Discount Appreciation
+141,delivery issues
+142,Product Ingredients
+143,Customer Complaints
+144,store stock availability
+145,Gluten-Free Product Issues
+146,long wait times
+147,long wait times
+148,online ordering
+149,Order Delays & Communication Issues
+150,Replacement requests
+151,Menopause Advice
+152,discontinued products
+153,Rewards Points Issues
+154,International Shipping Delay
+155,Rewards Points Issues
+156,Incorrect Orders
+157,Turmeric Capsule Ingredients
+158,staff knowledge
+159,inconsistent experience
+160,order tracking
+161,Login Issues
+162,Damaged Bottles
+163,Order Collection Issues
+164,Store Staff Service
+165,Order Delays
+166,Herbal Tea Customer Feedback
+167,BOGO Confusion
+168,Product Refunds
+169,Rewards Points Issues
+170,Product Availability
+171,Store Feedback
+172,online ordering
+173,Damaged Orders
+174,Menopause Supplements
+175,Stress & Anxiety Supplements
+176,Order Cancellation
+177,Returning Unopened Items
+178,Returning Unopened Items
+179,Product Refunds due to Allergic Reaction
+180,regular customer
+181,Store Early Closure
+182,Communication Issues
+183,Hair Growth Supplements
+184,Damaged Orders
+185,Store Feedback
+186,Order Issues
+187,Sales Pressure/Unwanted Purchases
+188,Order Delays
+189,incorrect orders
+190,inconsistent policies
+191,health concerns
+192,Inaccurate Product Description
+193,Customer Complaints
+194,Customer Complaints
+195,Order cancellation
+196,Coupon Issues
+197,Gratitude
+198,Expert Guidance
+199,Order Collection Issues
+200,expiration date issues
+201,Order Delays on Repeat Purchase
+202,promotions and offers
+203,Customer Appreciation
+204,app/website usability issues
+205,Delivery Address Update
+206,Customer Appreciation
+207,customer service feedback
+208,Delayed Delivery/Order Issue
+209,Delivery Address Update
+210,follow-up issues
+211,Reduced Product Quantity Without Notice
+212,store display
+213,in-store issues
+214,Order Delays & Communication Issues
+215,Payment Issues
+216,Transparency Issues
+217,Product Refunds: Allergic Reaction to Miaroma Sleep Mist
+218,Positive Feedback
+219,Rewards Points Issues
+220,Inconsistent Experience
+221,Discrimination
+222,Order Delays
+223,Skincare Order Status
+224,Positive Staff Feedback
+225,Order Status Updates
+226,Delivery Address Update
+227,packaging issues
+228,Store Staff Feedback
+229,Damaged Orders
+230,click and collect
+231,international shipping
+232,Order Cancellation
+233,Gluten-Free Product Issues
+234,Order Issues
+235,brand loyalty
+236,Store Staff Service
+237,Delivery Address Update
+238,Sleep Supplements
+239,Delivery Address Update
+240,misleading information
+241,Login Issues
+242,discount appreciation
+243,Poor Store Service
+244,Order Cancellation
+245,Order Delays & Communication Issues
+246,BOGO Confusion
+247,Skincare Order Status
+248,subscription service
+249,Card Payment Issues
+250,App Crashing
+251,Order Issues
+252,Order Not Received
+253,Product Authenticity Verification
+254,Transparency Issues
+255,Discrimination
+256,Incomplete Orders
+257,Order Delays
+258,store display
+259,Low-Calorie Pasta Nutritional Information
+260,Coupon Issues
+261,Order Collection Issues
+262,Damaged Bottles
+263,Order Modification
+264,positive recommendations
+265,Stress & Anxiety Supplements
+266,Value for money
+267,click and collect
+268,Order Confirmation Issues
+269,Skincare Order Status
+270,Order Delays & Communication Issues
+271,Order Refunds
+272,Store stock availability
+273,gratitude
+274,subscription service
+275,Herbal Tea Customer Feedback: Authenticity Inquiry Resolved
+276,Store Early Closure
+277,communication issues
+278,Store Early Closure
+279,Coupon Issues
+280,Order Refunds
+281,Customer Complaints
+282,international shipping
+283,discount appreciation
+284,Customer Appreciation
+285,Transparency of Vitamin Tablet Ingredients
+286,Discrimination
+287,Store Stock Availability Inquiry
+288,Poor Store Staff Attitude despite Efficient Click & Collect Service
+289,Menopause and Sleep Supplements
+290,Order Delays
+291,Positive Staff Feedback
+292,Customer Complaints
+293,Informative Service
+294,order tracking
+295,Out of Stock Item/Special Order
+296,Store Early Closure
+297,Product Returns/Replacements
+298,Menopause Supplements
+299,incomplete orders
+300,organic products
+301,online ordering
+302,BOGO Confusion
+303,Damaged Protein Bar Order & Replacement Request
+304,Customer Appreciation
+305,Packaging Issues
+306,Store Staff Feedback
+307,Order Collection Issues
+308,Order Refund
+309,Returning Unopened Items
+310,Store Staff Feedback
+311,Incorrect Order Fulfillment
+312,Out of Stock Issues
+313,discrimination
+314,delivery issues
+315,Damaged Orders
+316,order tracking
+317,supplement advice
+318,Expert Guidance
+319,gratitude
+320,miscommunication
+321,Positive Feedback
+322,Pricing and Promotions
+323,Positive Feedback
+324,Damaged Bottles
+325,Expert Guidance
+326,Coupon Issues
+327,Expiration Date Issue & Replacement
+328,Store Early Closure
+329,Menopause Supplements
+330,Poor Store Service
+331,convenient location
+332,Delivery Address Update
+333,Customer Appreciation
+334,Order Cancellation
+335,Staff Knowledge
+336,Store Early Closure
+337,Menopause Supplements
+338,Promotions and offers
+339,subscription service
+340,Positive Staff Feedback
+341,transparency issues
+342,Stress & Anxiety Supplements
+343,Payment Issues
+344,Gratitude
+345,Product Availability
+346,communication issues
+347,Store Staff Feedback
+348,Accurate Product Information
+349,Positive Staff Feedback
+350,Product Returns/Replacements
+351,Customer Appreciation
+352,Damaged Orders
+353,Inconsistent Store Staff Service
+354,Subscription Change: Omega-3 Supplement Out of Stock
+355,Sales Pressure/Unwanted Purchases
+356,Rewards Points Issues
+357,Pricing and Promotions
+358,Misleading Information
+359,Order tracking
+360,Damaged Orders
+361,product selection
+362,Menopause Supplements
+363,informative service
+364,customer service feedback
+365,health concerns
+366,Order Delays
+367,Product Refunds
+368,Product Refunds
+369,smooth ordering process
+370,Damaged Orders
+371,BOGO Confusion
+372,Order Delays
+373,Pricing and Promotions
+374,customer value
+375,Vitamin Tablet Ingredients
+376,Gluten-Free Product Issues
+377,Menopause Supplements
+378,Ineffective Sleep Supplement
+379,Pricing Issues
+380,customer value
+381,Price comparison
+382,international shipping
+383,Vitamin Tablet Ingredients
+384,discontinued products
+385,Damaged Orders
+386,Biotin and Hair Growth
+387,Coupon Issues
+388,Product Refunds
+389,Order Delays
+390,Customer Feedback
+391,Damaged Orders
+392,Positive Recommendations
+393,Concerns about Parabens in Natural Face Cream
+394,Order Refund
+395,Customer Appreciation
+396,positive recommendations
+397,Order Delays & Communication Issues
+398,product selection
+399,allergy-sensitive products
+400,Dosage Advice/Iron Supplements
+401,Delivery Address Update
+402,Sales Pressure/Unwanted Purchases
+403,replacement requests
+404,Damaged Bottles
+405,informative service
+406,nutritional information
+407,Incorrect Orders
+408,Delayed Complaint Resolution
+409,Damaged Orders
+410,Store Staff Service
+411,Login Issues
+412,Allergen Inquiry
+413,Sales Pressure/Unwanted Purchases
+414,Value for Money
+415,Order Issues
+416,Authentic Products
+417,Customer Appreciation
+418,health concerns
+419,Positive Staff Feedback
+420,Damaged Orders
+421,promotion and offers
+422,Energy Supplements
+423,Stress & Anxiety Supplements
+424,store stock availability
+425,organic products
+426,Order Issues
+427,Coupon Issues
+428,vegetarian and vegan options
+429,follow-up issues
+430,Cholesterol management supplements
+431,Supplement Advice
+432,Discrimination
+433,Hair products
+434,product selection
+435,Shopping Experience
+436,Repeat Purchases
+437,App Assistance
+438,customer preferences
+439,Damaged Orders
+440,Order Collection Issue due to Store Closure
+441,Damaged Orders
+442,Positive Staff Feedback
+443,app/website usability issues
+444,Store Permanent Closure
+445,Order Issues
+446,Product Recommendations for Sensitive Skin
+447,inconsistent policies
+448,Gluten-Free Product Issues
+449,Damaged Protein Powder Orders
+450,follow-up issues
+451,Immune Support Supplements
+452,online ordering
+453,Value for Money
+454,Damaged Orders
+455,Positive Staff Feedback
+456,Positive Staff Feedback
+457,Discrimination
+458,Order Refunds
+459,Damaged Bottles
+460,price comparison
+461,international shipping
+462,Efficient Service
+463,product ingredients
+464,Customer Complaints
+465,Discrimination
+466,Order Cancellation
+467,Fast Delivery Praise
+468,Product Refunds
+469,Discontinued Product Replacement
+470,Skincare Product Effectiveness
+471,Positive Feedback
+472,App Crashing
+473,Intimidating Behavior
+474,in-store issues
+475,Positive Staff Feedback
+476,BOGO Confusion
+477,Order Delays
+478,Transparency Issues
+479,Sports Nutrition Section Signage
+480,Vitamin B12 Benefits
+481,Online Ordering
+482,Order Delays
+483,Sleep Supplements recommended for menopause-related insomnia
+484,Smooth Ordering Process and Fast Delivery Praise
+485,Sensitive Skin Moisturizer Recommendation
+486,Damaged Orders
+487,Loyalty Program Enrollment
+488,Menopause Supplements
+489,Damaged Protein Powder Orders
+490,Positive Recommendations
+491,Positive Staff Feedback
+492,Delivery Issues
+493,Store Early Closure
+494,Delivery Address Update
+495,Delivery Address Update
+496,Product Returns/Replacements
+497,Store Staff Feedback
+498,Positive Feedback & Improvement Suggestion
+499,Positive Staff Feedback
+500,Negative Staff Feedback and Brand Loyalty
+501,Damaged Orders
+502,Order Delays
+503,allergy-sensitive products
+504,App Crashing
+505,Customer Complaints
+506,Damaged Protein Powder Orders
+507,Order Issues
+508,Order status updates
+509,Skincare Order Status
+510,Customer Complaints
+511,Sleep Supplements
+512,product condition
+513,Order Cancellation
+514,Supplement Advice
+515,Customer Appreciation
+516,Incorrect Orders
+517,Customer Complaints
+518,Store Staff Service
+519,subscription service
+520,Damaged Orders
+521,Product Returns/Replacements
+522,Order Collection Issues
+523,Supplement Advice
+524,Missing Product Contents
+525,Voucher Redemption Issues
+526,Product Authenticity Verification
+527,Order Issues
+528,Product Returns/Replacements
+529,Beauty Product Ingredient Transparency
+530,Expiration Date Issue - Replacement Provided
+531,Damaged Bottles
+532,Pricing and Promotions
+533,Positive Feedback
+534,Positive Staff Feedback
+535,incomplete orders
+536,Order Issues
+537,App Account Issues
+538,Voucher Redemption Issues
+539,Immune System Support Supplements
+540,Damaged Protein Powder Orders
+541,Voucher Redemption Issues
+542,store stock availability
+543,Rewards Points Issues
+544,Website Issue/Safari Browser Compatibility
+545,discount appreciation
+546,discount appreciation
+547,Order Issues
+548,brand loyalty
+549,Order Collection Issues
+550,Positive Store Feedback
+551,Incorrect Order Fulfillment
+552,Damaged Orders
+553,Discrimination
+554,Product Selection - Vegan Protein Bars
+555,efficient service
+556,Order Issues
+557,Store Staff Feedback
+558,Order Issues
+559,"Efficient Service, Poor In-Store Organization"
+560,Order Issues
+561,discontinued products
+562,hair products
+563,Pricing and Promotions
+564,Store Staff Feedback
+565,transparency issues
+566,order not received
+567,incorrect orders
+568,Energy Supplements
+569,Order Collection Issues
+570,Smooth Ordering Process
+571,Gratitude
+572,Pricing and Promotions
+573,Efficient Service
+574,Order Delays
+575,Customer Appreciation
+576,Gluten-Free Product Issues
+577,Supplement advice
+578,Product Authenticity Verification
+579,Complaint Resolution
+580,Pricing and Promotions
+581,Store Feedback
+582,Gluten-Free Product Issues
+583,Positive Recommendations
+584,Delivery Address Update
+585,Pricing and Promotions
+586,vegetarian and vegan options
+587,store display
+588,smooth ordering process
+589,Damaged Protein Powder Orders
+590,Order Issues
+591,Damaged Goods - Subscription Replacement
+592,Gluten-Free Product Issues
+593,shopping experience
+594,Damaged Product Replacement
+595,vegetarian and vegan options
+596,Returning Unopened Items
+597,Positive Staff Feedback
+598,click and collect
+599,Expert Guidance
+600,Vegan Multivitamin Gummies Inquiry
+601,Biotin Ineffectiveness
+602,Click and Collect
+603,Order Collection Issues
+604,Order Cancellation
+605,Card Payment Issues
+606,Joint Supplements
+607,Pricing and Promotions
+608,Pricing and Promotions
+609,BOGO Confusion
+610,Customer Complaints
+611,Pricing and Promotions
+612,discount appreciation
+613,Order Collection Issues
+614,Product Authenticity Verification
+615,Product Information
+616,Damaged Orders
+617,Sales Pressure/Unwanted Purchases
+618,app/website usability issues
+619,promotion and offers
+620,In-store issues
+621,Order Delays (International Shipping)
+622,Damaged Orders
+623,Shipping Method Change Request
+624,Delivery Address Update
+625,Order Refund due to Pricing Error
+626,Poor Store Service
+627,Collagen Peptides Dairy-Free Inquiry
+628,inconsistent policies
+629,Positive Feedback
+630,Order Issues
+631,Complaint Resolution
+632,Positive Staff Feedback
+633,Damaged Orders
+634,CoQ10 Effectiveness and Energy
+635,Probiotic Supplements
+636,Informative Service
+637,Missing Order/Delivery Issue
+638,Damaged Shipment
+639,Pricing and Promotions
+640,Positive Staff Feedback
+641,Herbal Tea Customer Feedback
+642,In-Store Customer Experience
+643,app/website usability issues
+644,App Account Issues
+645,inconsistent policies
+646,Poor Store Service
+647,Click and Collect
+648,Ineffective Joint Supplements - Glucosamine and Chondroitin
+649,Rewards Points Issues
+650,App Account Issues
+651,allergy-sensitive products
+652,Positive Staff Feedback
+653,replacement requests
+654,repeat purchases
+655,professionalism
+656,Hair Products
+657,Positive Feedback
+658,Delivery Address Update
+659,health products
+660,Order Delays & Communication Issues
+661,Damaged Bottles
+662,Positive Recommendations
+663,Order Delays & Communication Issues
+664,Delivery Address Update
+665,Damaged Protein Powder Orders
+666,Efficient Service
+667,Gluten-Free Product Issues
+668,Damaged Goods Replacement
+669,Customer Appreciation
+670,Coupon Issues
+671,Store Staff Feedback
+672,Voucher Redemption Issues
+673,Turmeric Capsule Orders
+674,Damaged Protein Powder Orders
+675,Positive Staff Feedback
+676,Follow-up issues
+677,miscommunication
+678,Joint Supplements
+679,Order Delays
+680,incorrect orders
+681,delivery issues
+682,Order Delays - Proactive Resolution
+683,Incorrect Order Received
+684,payment issues
+685,Order Issues
+686,allergy-sensitive products
+687,Damaged Protein Powder Orders
+688,Poor Store Service
+689,App Account Issues
+690,Order Collection Issues
+691,Login Issues
+692,Positive Product Review: Vitamin D3 and Energy
+693,brand loyalty
+694,store organization
+695,Voucher Redemption Issues
+696,Collagen Supplement Effectiveness and Usage
+697,Damaged Orders
+698,Sleep Supplements
+699,Pricing and Promotions
+700,organic products
+701,Order Refund
+702,Pricing and Promotions
+703,Expiration Date Issue & Refund
+704,customer service feedback
+705,Store stock availability
+706,Complaint Resolution
+707,Protein Powder Recommendations
+708,Order Cancellation
+709,Order Delays & Communication Issues
+710,Rewards Points Issues
+711,Payment Issues
+712,Order Collection Issues
+713,Customer Appreciation
+714,staff knowledge
+715,Follow-up issues
+716,Order Issues
+717,subscription service
+718,Store Early Closure
+719,Customer Complaints
+720,Positive Recommendations
+721,Delayed Complaint Resolution
+722,Order Issues
+723,Informative service
+724,repeat purchases
+725,Order Cancellation
+726,Skincare Order Status
+727,discount appreciation
+728,Delayed Complaint Resolution
+729,customer preferences
+730,shopping experience
+731,Positive Staff Feedback
+732,Delayed Complaint Resolution
+733,Customer Feedback
+734,Customer Complaints
+735,App Account Issues
+736,Rewards Points Issues
+737,Online Ordering - Card Payment Issue
+738,Poor Store Service
+739,store display
+740,Protein Powder Recommendations
+741,Rewards Points Issues
+742,Pricing and Promotions
+743,Protein Powder Recommendations
+744,Store Feedback
+745,Positive Feedback
+746,accurate product information
+747,Positive Staff Feedback
+748,Positive Feedback
+749,Order Issues
+750,Efficient Service
+751,Product Authenticity Verification
+752,Order Delays
+753,Order Delays
+754,Missing Item in Order / Order Fulfillment Issue
+755,Supplement Advice
+756,Misleading information
+757,Health Concerns
+758,accurate product information
+759,Positive Staff Feedback
+760,Menopause Supplements
+761,Health Concerns & Product Refunds
+762,health products
+763,Pricing Issues
+764,Order Delays
+765,Coupon Issues
+766,Expert Guidance
+767,Store Early Closure
+768,Sales Pressure/Unwanted Purchases
+769,Health Concerns & Weight Management
+770,App Account Issues
+771,Expiration Date Issues
+772,Store Staff Feedback
+773,Product Effectiveness Inquiry
+774,Order Issues
+775,Voucher Redemption Issues
+776,promotions and offers
+777,Order Issues
+778,Positive Staff Feedback
+779,Palm Oil Concerns in Nuts and Seeds
+780,subscription service
+781,Order Confirmation Issues
+782,Login Issues
+783,Rewards Points Issues
+784,Product Refunds
+785,Pricing and Promotions
+786,store stock availability
+787,Product Selection
+788,Order Delays
+789,Protein Powder Recommendations
+790,Damaged Orders
+791,Order Delays
+792,Sleep Supplements
+793,Prompt Service
+794,Damaged Orders
+795,Product Refunds
+796,Customer Appreciation
+797,Pricing and Promotions
+798,Weight Management Product Inquiry
+799,Damaged Bottles
+800,delivery issues
+801,Order Issues
+802,Damaged Orders
+803,Customer Appreciation
+804,order not received
+805,Informative service
+806,Order Delays & Communication Issues
+807,trustworthy products
+808,Damaged Orders
+809,BOGO Confusion
+810,complaint resolution
+811,Gratitude
+812,order not received
+813,Order Issue Resolution
+814,Joint Supplements
+815,Login Issues
+816,Order Delays & Communication Issues
+817,health concerns
+818,Customer Feedback
+819,Hair Growth Supplements Recommendation
+820,Skincare Order Status
+821,Product Discontinuation & Brand Loyalty
+822,promotion and offers
+823,Order Refunds
+824,Misleading Information
+825,Order Collection Issues
+826,value for money
+827,Iron Supplements
+828,health products
+829,Order Collection Issues
+830,Poor Store Service
+831,promotions and offers
+832,Product Authenticity Verification
+833,Shopping Experience
+834,Poor Store Service
+835,unresponsive support
+836,Customer Suggestion: Sports Nutrition Promotions
+837,Poor Store Service
+838,Delayed Complaint Resolution
+839,product selection
+840,repeat purchases
+841,product effectiveness
+842,Chia Seed Nutritional Inquiry
+843,price comparison
+844,Store Early Closure
+845,Voucher Issues
+846,Order Issues
+847,"""Out of Stock Item Not Reflected on Website"""
+848,smooth ordering process
+849,incorrect orders
+850,Delivery Address Update
+851,Voucher Redemption Issues
+852,Delivery Address Update
+853,Order Collection Issues
+854,Product Authenticity Verification
+855,Product Availability
+856,Omega-3 Supplements: Vegetarian Options
+857,Pricing and Promotions
+858,incorrect orders
+859,GMO Concerns about Protein Bar
+860,Order Delays
+861,Product Discontinuation and Alternative Recommendations
+862,Informative service
+863,incomplete orders
+864,BOGO Confusion
+865,Dairy Allergy Inquiry
+866,Menopause Supplements
+867,Store Staff Feedback
+868,international shipping
+869,Damaged Product Replacement
+870,Order Issues
+871,Customer Appreciation
+872,Store Feedback
+873,health products
+874,accurate product information
+875,Order status updates
+876,Order Collection Issues
+877,Customer Appreciation
+878,product ingredients
+879,Protein Powder Recommendations Based on Customer Preference
+880,Order Collection Issues
+881,Missing Items in Vegan Hamper Order
+882,Product Authenticity Verification
+883,convenient location
+884,Protein Powder Recommendations
+885,product availability
+886,allergy-sensitive products
+887,misleading information
+888,Order Issues
+889,click and collect
+890,Delayed Complaint Resolution
+891,Herbal Tea Customer Feedback
+892,Accurate Product Information
+893,Order Refund Due to Expired Product
+894,Product Effectiveness Inquiry: Vitamin B12 Supplement
+895,informative service
+896,Positive Feedback
+897,Discontinued Product Inquiry & Replacement
+898,Store Feedback
+899,Store Staff Feedback
+900,Product Refunds
+901,Order Collection Issues
+902,Supplement Advice
+903,Customer Appreciation
+904,Delivery Issues
+905,Energy Supplement Recommendation
+906,prompt service
+907,customer preferences
+908,Fast Delivery Praise
+909,Product Authenticity Verification
+910,Inconsistent Experience
+911,Delivery Address Update
+912,Nutritional Information
+913,product ingredients
+914,Supplement advice
+915,Delivery Address Update
+916,Pricing issues
+917,Order Cancellation
+918,Order Delays
+919,Keto Protein Bar Nutritional Information
+920,app/website usability issues
+921,Positive Store Feedback
+922,health products
+923,Card Payment Issues
+924,prompt service
+925,Order Issues
+926,Order Inquiry & Restock Notification
+927,Skincare Order Status
+928,Customer Appreciation
+929,Product Effectiveness
+930,Product Returns/Replacements
+931,Transparency Issues
+932,Bone health supplements
+933,Informative Service
+934,Positive Staff Feedback
+935,convenient location
+936,in-store issues
+937,Order Collection Issues
+938,incorrect orders
+939,accurate product information
+940,Poor Store Service
+941,Subscription Order - Address Change Issue Resolved
+942,"""Positive Customer Feedback on Menopause Supplement Advice"""
+943,Order Refund
+944,Order Delays
+945,Store Staff Feedback
+946,Formula Change Complaint - Vegan Protein Powder
+947,value for money
+948,Store Early Closure
+949,Order Delays
+950,Customer Complaints
+951,Positive Recommendations
+952,Order Cancellation
+953,Customer Appreciation
+954,Store Feedback: Accessibility Issue
+955,Coupon Issues
+956,Customer Complaint - Vitamin C Product
+957,organic products
+958,Order Collection Issues
+959,Login Issues
+960,Dairy-Free Cheese Recommendation
+961,Skin health supplements
+962,repeat purchases
+963,Store Staff Service
+964,Store Early Closure
+965,Damaged Bottles
+966,Order Delays & Communication Issues
+967,Eye health supplements
+968,Miscommunication
+969,Nutritional Information
+970,Store Feedback
+971,brand loyalty
+972,Order Collection Issues
+973,Order Cancellation
+974,Delivery Address Update
+975,delivery issues
+976,Store Staff Feedback
+977,promotion and offers
+978,Delivery Address Update
+979,Incorrect Turmeric Powder Order
+980,International Shipping Delay
+981,Customer Appreciation
+982,Pricing and Promotions
+983,Positive Staff Feedback
+984,Sales Pressure/Unwanted Purchases
+985,Order Collection Issues
+986,international shipping
+987,shopping experience
+988,Pricing and Promotions
+989,Complaint Resolution
+990,store display
+991,Transparency Issues Regarding Vitamin Tablet Ingredients
+992,Store Early Closure
+993,Positive Staff Feedback
+994,Damaged Orders
+995,Informative service
+996,Order Delays & Communication Issues
+997,Payment Issues
+998,Biotin Supplement Effectiveness for Hair Growth
+999,Skincare Order Status
+1000,international shipping
+1001,Store Staff Feedback
+1002,Vegan Protein Bar Availability
+1003,Fast Delivery Praise
+1004,Order not received
+1005,Prompt Service
+1006,Follow-up Issues
+1007,Incorrect Orders
+1008,Fast Delivery Praise
+1009,informative service
+1010,Positive Staff Feedback
+1011,Order Issues
+1012,expiration date issues
+1013,parcel issues
+1014,Order Delays
+1015,positive recommendations
+1016,Store Staff Feedback
+1017,Order Cancellation
+1018,Order Delays & Communication Issues
+1019,Damaged Orders
+1020,product effectiveness
+1021,unresponsive support
+1022,vegetarian and vegan options
+1023,BOGO Confusion
+1024,Login Issues
+1025,Order Cancellation
+1026,promotions and offers
+1027,Delivery Address Update
+1028,Voucher Redemption Issues
+1029,product condition
+1030,Order Delays & Communication Issues
+1031,discrimination
+1032,Order Tracking
+1033,Pricing and Promotions
+1034,store display
+1035,inconsistent policies
+1036,health products
+1037,Supplement Advice
+1038,Product Authenticity Verification
+1039,Order Collection Issues
+1040,Positive Staff Feedback
+1041,follow-up issues
+1042,Positive Staff Feedback
+1043,Pricing Issues
+1044,Product Refunds
+1045,Discrimination
+1046,Order Delays
+1047,international shipping
+1048,Herbal Tea Customer Feedback
+1049,transparency issues
+1050,Efficient Service & Positive Feedback
+1051,informative service
+1052,Customer Appreciation
+1053,shopping experience
+1054,BOGO Confusion
+1055,payment issues
+1056,Positive Staff Feedback
+1057,Store Stock Unavailability and Online Order Suggestion
+1058,store organization
+1059,Expired Product Complaint
+1060,product recommendations
+1061,allergy-sensitive products
+1062,transparency issues
+1063,Store Early Closure
+1064,Product Return/Exchange
+1065,Follow-up Issues
+1066,Returning Unopened Items
+1067,Product Availability
+1068,Positive Staff Feedback
+1069,Store Display Issue
+1070,subscription service
+1071,Damaged Bottles
+1072,app assistance
+1073,Follow-up Issues
+1074,Protein Powder Recommendations
+1075,Product Refunds
+1076,Rewards Points Issues
+1077,Expert Guidance
+1078,Product Recommendations
+1079,Store Environment Feedback
+1080,Herbal Tea Customer Feedback
+1081,Customer Feedback
+1082,Order Refunds due to Expired Product
+1083,Fast Delivery Praise
+1084,Product Recommendations
+1085,Store Staff Feedback
+1086,store stock availability
+1087,Herbal Tea Customer Feedback
+1088,Poor Store Service
+1089,health products
+1090,Product Condition
+1091,Damaged Protein Powder Orders
+1092,Login issues
+1093,Order Refund
+1094,product selection
+1095,shopping experience
+1096,Positive Staff Feedback
+1097,Order Collection Issues
+1098,promotions and offers
+1099,long wait times
+1100,Order Cancellation
+1101,Order Delays & Communication Issues
+1102,Customer Appreciation
+1103,order status updates
+1104,App Crashing
+1105,Pricing and Promotions
+1106,Damaged Orders
+1107,Store Early Closure
+1108,Store Early Closure
+1109,payment issues
+1110,Product Returns/Replacements
+1111,subscription service
+1112,vegetarian and vegan options
+1113,Order Collection Issues
+1114,Skincare Order Status
+1115,Store Feedback
+1116,Damaged Protein Powder Orders
+1117,Store Staff Service
+1118,Expansion of dairy-free products
+1119,Positive Staff Feedback
+1120,Order Delays
+1121,gratitude
+1122,long wait times
+1123,shopping experience
+1124,Expert Guidance on Omega-3 Supplements
+1125,Order Collection Issues
+1126,Poor Store Service
+1127,Order Issues
+1128,Immune Support Supplements
+1129,International Shipping Delay
+1130,product condition
+1131,Order Cancellation
+1132,Product Availability Inquiry
+1133,Health Concerns
+1134,Order Delays & Communication Issues
+1135,online ordering
+1136,Product Returns/Replacements
+1137,Order Delays & Communication Issues
+1138,Store Staff Feedback
+1139,Pricing and Promotions
+1140,incomplete orders
+1141,Vegan Product Information
+1142,Plant-based milk nutritional information
+1143,Order Refunds due to Incorrect Product Information
+1144,Customer Complaints
+1145,Login Issues
+1146,Store Feedback
+1147,Order Issues
+1148,Inconsistent Experience
+1149,Stock Availability - Flaxseeds
+1150,Damaged Orders
+1151,Customer Complaints
+1152,Damaged Bottles
+1153,Pricing Issues
+1154,Keto Bread Mix Nutritional Information
+1155,Voucher Redemption Issues
+1156,Damaged Orders
+1157,order status updates
+1158,Energy Bar Sugar Content Inquiry
+1159,price comparison
+1160,trustworthy products
+1161,Store Feedback
+1162,vegetarian and vegan options
+1163,Store Organization Issue
+1164,Customer Complaints
+1165,Positive Staff Feedback
+1166,Hair Growth Supplements
+1167,Eye health supplements
+1168,incorrect orders
+1169,Trustworthy Products
+1170,incomplete orders
+1171,gratitude
+1172,store stock availability
+1173,efficient service
+1174,gratitude
+1175,Customer Complaints
+1176,Promotion and offers
+1177,Staff Knowledge
+1178,Order Cancellation
+1179,Expert Guidance
+1180,Expert Guidance
+1181,Delivery Address Update - Subscription Service Issue Resolved
+1182,Transparency Issues regarding Vitamin Tablet Ingredients
+1183,Stock Inquiry & Reservation
+1184,Delivery Issues
+1185,Customer Complaints
+1186,Store Staff Feedback
+1187,Order Tracking
+1188,staff knowledge
+1189,Vitamin D3 Supplement Inquiry
+1190,Customer Inquiry about Organic Nut and Fruit Bars
+1191,Poor Store Service
+1192,Order Issues
+1193,Positive Staff Feedback
+1194,Sales Pressure/Unwanted Purchases
+1195,Order Issues
+1196,Expert Guidance
+1197,Rewards Points Issues
+1198,menopause advice
+1199,Order Issues
+1200,Product Refunds
+1201,Damaged Protein Powder Orders
+1202,Menopause Supplements
+1203,Damaged Bottles
+1204,Product Availability
+1205,Damaged Bottles
+1206,product selection
+1207,Nutritional Information Discrepancy Resolved
+1208,Order cancellation
+1209,order status updates
+1210,Order Delays & Communication Issues
+1211,Website Issues Leading to Phone Order
+1212,Pricing Issues
+1213,Order Collection Issues
+1214,long wait times
+1215,Damaged Orders
+1216,Order Issues
+1217,Dried Fruit & Nuts
+1218,Order Refund due to Expired Product
+1219,Fast Delivery Praise
+1220,customer preferences
+1221,Positive Staff Feedback
+1222,miscommunication
+1223,Positive Staff Feedback
+1224,Refund Due to Misinformation
+1225,Sales Pressure/Unwanted Purchases
+1226,Immune Support Supplements
+1227,Store Feedback
+1228,Price comparison
+1229,follow-up issues
+1230,Returning Unopened Items
+1231,gratitude
+1232,Coupon Issues
+1233,Convenient Location
+1234,store display
+1235,Customer Appreciation
+1236,Customer Feedback: New Organic Tea Flavors
+1237,Conscious Beauty Products
+1238,Pricing Issues
+1239,customer value
+1240,parcel issues
+1241,Rewards Points Issues
+1242,product effectiveness
+1243,Order Refunds (Expired Product)
+1244,Order Delays & Communication Issues
+1245,Voucher Redemption Issues
+1246,Order Delays & Communication Issues
+1247,Order Delay Resolution
+1248,Product Refunds
+1249,Customer Complaints
+1250,Gluten-Free Product Issues
+1251,Customer Appreciation
+1252,Damaged Orders
+1253,customer preferences
+1254,Damaged Orders
+1255,Rewards Points Issues
+1256,Order Delays
+1257,Damaged Orders
+1258,brand loyalty
+1259,Expert Guidance
+1260,Damaged Protein Powder Orders
+1261,Positive Staff Feedback
+1262,Ingredient Inquiry
+1263,Misleading Information
+1264,Customer Appreciation
+1265,Gluten-Free Product Issues
+1266,Refund Process
+1267,Smooth Ordering Process
+1268,Product Authenticity Verification
+1269,Damaged Orders
+1270,Login Issues
+1271,customer service feedback
+1272,efficient service
+1273,app/website usability issues
+1274,Product Refunds
+1275,Damaged Orders
+1276,Hair products
+1277,Stress & Anxiety Supplements
+1278,Positive Staff Feedback
+1279,value for money
+1280,BOGO Confusion
+1281,Positive Staff Feedback
+1282,app/website usability issues
+1283,Returning Unopened Items
+1284,Rewards Points Issues
+1285,Lack of respect
+1286,Out of Stock Items
+1287,Order Collection Issues
+1288,Expert Guidance
+1289,gratitude
+1290,product selection
+1291,Informative Service
+1292,store organization
+1293,Impulse Buying
+1294,Order Refund
+1295,Order Delays & Communication Issues
+1296,product ingredients
+1297,Customer Feedback
+1298,price comparison
+1299,Positive Feedback on Iron Supplements
+1300,Delivery Address Update
+1301,Order Collection Issues
+1302,Repeat Purchases
+1303,discontinued products
+1304,Protein Powder Recommendations
+1305,Rewards Points Issues
+1306,Stress & Anxiety Supplements
+1307,Poor Store Service
+1308,Order Delay Due to Stock Issue
+1309,Positive Staff Feedback
+1310,Damaged Bottles
+1311,Voucher Redemption Issues
+1312,discount appreciation
+1313,Order Delays & Communication Issues
+1314,refund process
+1315,Coupon Issues
+1316,Dried Fruit & Nuts Restock Inquiry
+1317,Intimidating Behavior
+1318,Order Delays
+1319,Prompt service
+1320,Positive Staff Feedback
+1321,Damaged Bottles
+1322,app assistance
+1323,Loyalty Program Enrollment
+1324,order tracking
+1325,Order Cancellation
+1326,vegetarian and vegan options
+1327,Positive Customer Feedback
+1328,unresponsive support
+1329,Order Delays
+1330,Product Discontinuation and Alternative Recommendation
+1331,Login Issues
+1332,Expert Guidance
+1333,Allergen Information
+1334,Customer Appreciation
+1335,store stock availability
+1336,Dried Fruit & Nuts
+1337,Discrimination
+1338,Order Delays
+1339,Skincare Order Status
+1340,gratitude
+1341,efficient service
+1342,product ingredients
+1343,Damaged Orders
+1344,Matcha Powder Taste Complaint
+1345,Damaged Protein Powder Orders
+1346,Customer Complaints
+1347,Damaged Bottles
+1348,Store Early Closure
+1349,Discrimination
+1350,Rewards Points Issues
+1351,Poor Store Service
+1352,app assistance
+1353,store stock availability
+1354,Efficient Service
+1355,Out of Stock Omega-3 Supplements
+1356,Customer Appreciation
+1357,price comparison
+1358,Informative service regarding Probiotic Supplements
+1359,Positive Feedback
+1360,Coupon Issues
+1361,Voucher Redemption Issues
+1362,Joint Supplements
+1363,Transparency Issues with Probiotic Supplement Product Information
+1364,informative service
+1365,Incorrect Order Fulfillment
+1366,brand loyalty
+1367,Rewards Points Issues
+1368,Pricing and Promotions
+1369,Transparency Issues
+1370,Protein Powder Recommendations
+1371,Positive Feedback
+1372,BOGO Confusion
+1373,international shipping
+1374,Product Availability
+1375,inconsistent policies
+1376,Order Issues
+1377,Pricing and Promotions
+1378,Damaged Bottles
+1379,Positive Staff Feedback
+1380,incomplete orders
+1381,regular customer
+1382,Damaged Orders
+1383,Expiration Date Issues
+1384,Card Payment Issues
+1385,Damaged Bottles
+1386,Rewards Points Issues
+1387,Login Issues
+1388,Positive Staff Feedback
+1389,Informative service
+1390,Positive Staff Feedback
+1391,Positive Staff Feedback
+1392,Damaged Orders
+1393,Inconsistent Customer Experience
+1394,App/Website Usability Issues
+1395,Positive Staff Feedback
+1396,Gluten-Free Product Issues
+1397,Positive Feedback
+1398,expert guidance
+1399,Damaged Bottles
+1400,Efficient Service
+1401,health products
+1402,Order Cancellation
+1403,Rewards Points Issues
+1404,Positive Staff Feedback
+1405,Damaged Bottles - International Shipping
+1406,Positive Staff Feedback
+1407,Positive Feedback
+1408,Product Refunds
+1409,Damaged Bottles During International Shipping
+1410,Store Stock Availability
+1411,Expiration Date Issues
+1412,Order Issues
+1413,Incorrect Order Fulfillment
+1414,Order Cancellation
+1415,discount appreciation
+1416,transparency issues
+1417,in-store issues
+1418,Customer Feedback & Energy Supplement Recommendation
+1419,Misleading Information
+1420,Expired Vitamins - Refund Processed
+1421,Damaged Protein Powder Orders
+1422,Positive Staff Feedback
+1423,Damaged Orders
+1424,Positive Recommendations
+1425,Sales Pressure/Unwanted Purchases
+1426,positive recommendations
+1427,In-store issues
+1428,Damaged Orders
+1429,Delivery Address Update
+1430,Customer Appreciation
+1431,Delayed Complaint Resolution
+1432,Order Collection Issues
+1433,Delivery Issues
+1434,lack of respect
+1435,Damaged Bottles
+1436,Expert Guidance
+1437,positive recommendations
+1438,Login Issues
+1439,Rewards Points Issues
+1440,Product Availability
+1441,gratitude
+1442,Order Refund
+1443,Inconsistent Customer Experience
+1444,Voucher Redemption Issues
+1445,Health Concerns
+1446,Customer Appreciation
+1447,Probiotic Supplements
+1448,product condition
+1449,Voucher Redemption Issues
+1450,Organic Skincare Products
+1451,Discrimination
+1452,Store Feedback
+1453,Vitamin C Supplement Recommendation
+1454,Login Issues
+1455,gratitude
+1456,Product Authenticity Verification
+1457,App Account Issues
+1458,value for money
+1459,staff interaction
+1460,Pricing Issues
+1461,store display
+1462,Product Authenticity Verification
+1463,Damaged Bottles
+1464,Customer Feedback
+1465,customer value
+1466,Product Recommendations
+1467,Energy Supplements
+1468,App Account Issues
+1469,refund process
+1470,Card Payment Issues
+1471,Repeat Purchases
+1472,Damaged Orders
+1473,Product Refunds
+1474,Protein Powder Recommendations
+1475,gratitude
+1476,Order Refunds (due to incomplete order)
+1477,Product Discontinuation and Brand Loyalty
+1478,Incorrect Orders
+1479,Turmeric Capsule Orders
+1480,hair products
+1481,Probiotic Supplement Recommendation for Digestive Health
+1482,nutritional information
+1483,Product Discontinuation and Alternative Recommendations
+1484,Login Issues
+1485,Order Status Updates
+1486,Order Delays
+1487,Returning Unopened Items
+1488,Supplement advice
+1489,store organization
+1490,Pricing issues
+1491,Protein Powder Recommendations
+1492,Delayed Complaint Resolution
+1493,Digestive Health Product Recommendation
+1494,BOGO Confusion
+1495,Customer Complaint - Taste of Vegan Snacks
+1496,Omega-3 Supplement Ineffectiveness and Refund
+1497,Order Collection Issues
+1498,app/website usability issues
+1499,Sleep Supplements
+1500,Product Authenticity Verification
+1501,Faulty Product Resolution
+1502,authentic products
+1503,product ingredients
+1504,Order Refunds
+1505,Packaging Issues
+1506,Pricing and Promotions
+1507,Product Availability
+1508,product recommendations
+1509,complaint resolution
+1510,Brand Loyalty and Product Discontinuation
+1511,Product Refunds
+1512,Efficient service
+1513,informative service
+1514,Damaged Bottles
+1515,expiration date issues
+1516,Refund process
+1517,Product Refunds
+1518,Delivery Address Update
+1519,incorrect orders
+1520,app assistance
+1521,app/website usability issues
+1522,Menopause Supplements
+1523,incomplete orders
+1524,Product Refunds
+1525,Delivery Address Update
+1526,international shipping
+1527,Order Delays & Communication Issues
+1528,Product Authenticity Verification
+1529,follow-up issues
+1530,Herbal Tea Customer Feedback
+1531,Order Refunds
+1532,inconsistent policies
+1533,Missing Vegan Supplements Order
+1534,Damaged Bottles
+1535,communication issues
+1536,Order Issues
+1537,Positive Staff Feedback
+1538,communication issues
+1539,Complaint Resolution
+1540,Positive Staff Feedback
+1541,pricing issues
+1542,long wait times
+1543,Order Cancellation
+1544,Coupon Issues
+1545,promotions and offers
+1546,Positive Feedback: Smooth Online Ordering and In-Store Pickup
+1547,health products
+1548,Product Refunds
+1549,Order Refunds
+1550,Damaged Bottles
+1551,Order Refunds
+1552,subscription service
+1553,Order Delay - Resolved
+1554,Rewards Points Issues
+1555,refund process
+1556,Loss of Brand Loyalty Due to Product Reformulation
+1557,Positive Staff Feedback
+1558,Product Effectiveness Inquiry (Turmeric Capsules)
+1559,Damaged Protein Powder Order
+1560,Vegan Beauty Product Order Issue
+1561,brand loyalty
+1562,Damaged Orders
+1563,Delayed Delivery
+1564,Order Error/Incorrect Item Received
+1565,Gluten-Free Product Issues
+1566,Complaint Resolution
+1567,health products
+1568,Order Delays
+1569,Rewards Points Issues
+1570,trustworthy products
+1571,Pricing and Promotions
+1572,efficient service
+1573,Pricing and Promotions
+1574,Customer Complaints
+1575,Expert Guidance
+1576,Product Availability
+1577,Incorrect Order Fulfillment
+1578,Poor Store Service
+1579,Omega-3 Supplement Effectiveness and Timeline
+1580,authentic products
+1581,Product Availability
+1582,Positive recommendations for Conscious Beauty Products
+1583,product effectiveness
+1584,Expired Product - Replacement
+1585,Replacement Requests
+1586,Damaged Bottles
+1587,Customer Appreciation
+1588,follow-up issues
+1589,Positive Recommendations
+1590,click and collect
+1591,Product Refunds
+1592,international shipping
+1593,Menopause Supplements
+1594,Replacement requests
+1595,refund process
+1596,Damaged Bottles
+1597,prompt service
+1598,long wait times
+1599,order tracking
+1600,Vitamin Supplement Advice & Recommendation
+1601,Joint Supplements - Lack of Efficacy
+1602,Incomplete Ingredient Listing on Website
+1603,Pricing and Promotions
+1604,Damaged Orders
+1605,Customer Complaints
+1606,Order Issues
+1607,incorrect orders
+1608,Order Collection Issues
+1609,Menopause Supplements
+1610,Store Early Closure
+1611,Follow-up Issues
+1612,Order Issues
+1613,Nutritional Information
+1614,Coupon Issues
+1615,Omega-3 Supplements
+1616,Store Feedback
+1617,Order Collection Issues
+1618,order tracking
+1619,Positive Staff Feedback
+1620,Packaging Issues
+1621,Joint Supplement Recommendation for Ineffective Glucosamine
+1622,incomplete orders
+1623,Discrimination
+1624,Menopause Supplements
+1625,Order Cancellation
+1626,Stress & Anxiety Supplements
+1627,Incorrect Order Fulfillment
+1628,Order Collection Issues
+1629,Poor Store Service
+1630,order status updates
+1631,product effectiveness
+1632,Order Issues
+1633,Poor Store Service
+1634,Order Delays & Communication Issues
+1635,Customer Appreciation
+1636,Returning Unopened Items
+1637,Delivery Issues
+1638,Order not received
+1639,Order Delay Resolution
+1640,brand loyalty
+1641,Positive Feedback
+1642,Inaccurate product information
+1643,customer service feedback
+1644,Positive Store Feedback
+1645,follow-up issues
+1646,Customer Feedback: Store Display Issue
+1647,Positive Staff Feedback
+1648,payment issues
+1649,Positive Customer Feedback
+1650,Order Cancellation
+1651,packaging issues
+1652,order status updates
+1653,Incorrect Order Fulfillment
+1654,Damaged Orders
+1655,Order Delays
+1656,Pricing Issues
+1657,Positive Staff Feedback
+1658,Order Collection Issues
+1659,accurate product information
+1660,Prompt Service
+1661,Poor Store Service
+1662,prompt service
+1663,Voucher Redemption Issues
+1664,Product Authenticity Verification
+1665,Order Refund
+1666,Login Issues
+1667,Order Delays
+1668,Delivery Address Update
+1669,App Crashing
+1670,Expert guidance
+1671,International Shipping Delay - Customs Documentation Required
+1672,promotion and offers
+1673,Probiotic Supplement Recommendation
+1674,Sales Pressure/Unwanted Purchases
+1675,Card Payment Issues
+1676,Rewards Points Issues
+1677,Collagen Supplement Effectiveness
+1678,Rewards Points Issues
+1679,Informative Service
+1680,Order Delays
+1681,Gluten-Free Product Issues
+1682,Skincare Order Status
+1683,Order not received
+1684,organic products
+1685,discount appreciation
+1686,inconsistent policies
+1687,Customer Complaints
+1688,organic products
+1689,Accurate Product Information
+1690,Rewards Points Issues
+1691,Product Authenticity Verification
+1692,Positive Staff Feedback
+1693,customer value
+1694,Delivery Issues
+1695,Order Discrepancy
+1696,Damaged Bottles
+1697,Order Cancellation (Failed)
+1698,subscription service
+1699,Product Returns/Replacements
+1700,Discrimination
+1701,miscommunication
+1702,Store Organization/Layout
+1703,Coupon Issues
+1704,Iron Supplement Effectiveness/Anemia
+1705,Order Refund
+1706,Delivery Address Update
+1707,Order Refund Due to Expired Vitamins
+1708,product condition
+1709,Order Delays
+1710,incorrect orders
+1711,Product Refunds
+1712,vegetarian and vegan options
+1713,Joint Supplements
+1714,Order Issues
+1715,shopping experience
+1716,transparency issues
+1717,prompt service
+1718,prompt service
+1719,app assistance
+1720,Login Issues
+1721,communication issues
+1722,Positive Staff Feedback
+1723,Damaged Orders
+1724,Pricing and Promotions
+1725,Fast Delivery Praise
+1726,shopping experience
+1727,In-Store Navigation & Product Location
+1728,Store Feedback
+1729,Payment Issues
+1730,Customer Complaints
+1731,unresponsive support
+1732,Store Staff Feedback
+1733,Delivery Address Update
+1734,Click and Collect
+1735,Order Delays
+1736,Coupon Issues
+1737,Product Refunds
+1738,Inconsistent Store Staff Service
+1739,brand loyalty
+1740,Brand Loyalty & Product Reformulation
+1741,Damaged Bottles
+1742,Delayed Complaint Resolution
+1743,Product Refunds
+1744,Order Refunds
+1745,Delivery Address Update
+1746,Pricing Issues
+1747,Sales Pressure/Unwanted Purchases
+1748,friendly staff
+1749,Inaccurate Product Information
+1750,Payment Issues
+1751,smooth ordering process
+1752,Pricing and Promotions
+1753,Prompt Service
+1754,Pricing and Promotions
+1755,Menopause Supplements
+1756,prompt service
+1757,Order Issues
+1758,product ingredients
+1759,Store Staff Feedback
+1760,Damaged Bottles
+1761,Protein Powder Recommendations
+1762,gratitude
+1763,Expiration Date Issue - Order Replacement
+1764,product condition
+1765,promotions and offers
+1766,Efficient Service
+1767,Herbal Tea Customer Feedback
+1768,online ordering
+1769,promotions and offers
+1770,Pricing and Promotions
+1771,discount appreciation
+1772,promotion and offers
+1773,Positive Staff Feedback
+1774,Returns/Replacements
+1775,incomplete orders
+1776,staff knowledge
+1777,Damaged Bottles
+1778,in-store issues
+1779,Product Allergies and Alternatives
+1780,Missing Items in Order
+1781,convenient location
+1782,Store Feedback
+1783,Damaged Orders
+1784,Staff Knowledge
+1785,Store Staff Feedback
+1786,subscription service
+1787,Parcel Issues
+1788,online ordering
+1789,Product Authenticity Verification
+1790,Expiration Date Issue - Replacement Provided
+1791,Order Delays
+1792,Damaged Protein Powder Orders
+1793,health concerns
+1794,Dosage Advice & Supplement Safety
+1795,Order Collection Issues
+1796,Gluten-Free Product Issues
+1797,Nutritional Information
+1798,Rewards Points Issues
+1799,Discontinued Omega-3 Fish Oil - Alternative Offered
+1800,Order Issues
+1801,Damaged Orders
+1802,Pricing Issues
+1803,Customer Appreciation
+1804,Subscription Change
+1805,expiration date issues
+1806,professionalism
+1807,transparency issues
+1808,Discrimination
+1809,Positive Staff Feedback
+1810,Order status updates
+1811,Store Feedback
+1812,store stock availability
+1813,Protein Powder Recommendations
+1814,Delivery Address Update
+1815,Pricing and Promotions
+1816,Rewards Points Issues
+1817,Order Delays
+1818,Product Authenticity Verification
+1819,Coupon Issues
+1820,organic products
+1821,Store Early Closure
+1822,Product Ingredients
+1823,Positive Staff Feedback
+1824,value for money
+1825,Inconsistent Experience
+1826,health products
+1827,Positive Staff Feedback
+1828,Miscommunication
+1829,Positive Staff Feedback
+1830,Order Refund
+1831,Positive Staff Feedback
+1832,Damaged Bottles
+1833,Customer Appreciation
+1834,refund process
+1835,Prompt service
+1836,Customer Preferences and Product Discontinuation
+1837,Iron Supplement Ineffectiveness; Doctor Referral
+1838,BOGO Confusion
+1839,Vitamin D Information
+1840,Pricing and Promotions
+1841,Turmeric Capsule Orders
+1842,Order Issues
+1843,Positive Staff Feedback
+1844,packaging issues
+1845,Order Cancellation
+1846,Order Cancellation
+1847,Gratitude
+1848,Positive Staff Feedback
+1849,Order Collection Issues
+1850,long wait times
+1851,product condition
+1852,Product Refunds
+1853,customer preferences
+1854,Vegan Omega-3 Supplement Nutritional Information
+1855,In-Store Promotion Inquiry
+1856,Store Staff Service
+1857,Order Issues
+1858,Website Image Quality
+1859,Order Issues
+1860,Order Delays & Communication Issues
+1861,Gluten-Free Product Issues
+1862,Delivery Address Update
+1863,store stock availability
+1864,Store Staff Feedback
+1865,Pricing and Promotions
+1866,incomplete orders
+1867,Damaged Orders
+1868,expert guidance
+1869,Store Early Closure
+1870,customer value
+1871,complaint resolution
+1872,Order Refund
+1873,Vitamin Dosage Advice
+1874,Order Delays
+1875,Store Feedback
+1876,Delayed Delivery
+1877,staff interaction
+1878,Order Delays
+1879,supplement advice
+1880,Vitamin C Supplement Inquiry
+1881,Order Delays
+1882,Delayed International Order (Vegan Supplements)
+1883,In-Store Consultation & Energy Supplement Recommendations
+1884,Online Ordering
+1885,Herbal Tea Customer Feedback
+1886,BOGO Confusion
+1887,Order Delays & Communication Issues
+1888,Positive Staff Feedback
+1889,Pricing Issues
+1890,Delayed Complaint Resolution
+1891,Damaged Protein Bars in Damaged Packaging
+1892,Damaged Bottle Due to Poor Packaging
+1893,Expired Product - Refund Processed
+1894,Positive Staff Feedback
+1895,customer service feedback
+1896,Damaged Protein Powder Orders
+1897,Order Cancellation
+1898,Keto-friendly snacks
+1899,efficient service
+1900,**Shampoo Ingredients**
+1901,Order Collection Issues
+1902,accurate product information
+1903,Positive Staff Feedback
+1904,Order Issues
+1905,Order Refund
+1906,Informative service regarding Omega-3 supplements
+1907,product effectiveness
+1908,Prompt Service
+1909,Smooth Ordering Process
+1910,promotion and offers
+1911,app/website usability issues
+1912,Discrimination
+1913,Delivery Issues
+1914,Subscription Order Delay/Backorder
+1915,Hair Product Issue/Troubleshooting
+1916,App Account Issues
+1917,repeat purchases
+1918,Skincare Order Status
+1919,Transparency Issue: Vitamin Tablet Labeling
+1920,Order Delays & Communication Issues
+1921,replacement requests
+1922,promotions and offers
+1923,product effectiveness
+1924,Promotion Issue Resolved
+1925,Discrimination
+1926,Pricing
+1927,Hair Growth Supplements
+1928,Order Collection Issues
+1929,Omega-3 Supplements
+1930,Customer Complaints
+1931,Missing Order/Delivery Issue
+1932,Order Refund
+1933,staff knowledge
+1934,Login Issues
+1935,Order Delays
+1936,Price Comparison
+1937,Informative service
+1938,Positive Staff Feedback
+1939,Rewards Points Issues
+1940,authentic products
+1941,Delivery Address Update
+1942,customer value
+1943,Inconsistent Experience
+1944,Order Issues
+1945,Positive Feedback
+1946,Damaged Bottles
+1947,Probiotic Supplement Labeling Clarity
+1948,Rewards Points Issues
+1949,trustworthy products
+1950,Store Staff Feedback
+1951,Nutritional Information Clarification
+1952,International Shipping Delay & Customs Issue Resolved
+1953,Positive Staff Feedback
+1954,Customer Appreciation
+1955,Energy Supplements
+1956,Eye health supplements
+1957,Incorrect Orders
+1958,Probiotic Supplement Ineffectiveness
+1959,Login Issues
+1960,Product Selection
+1961,Incorrect Item Received
+1962,Sales Pressure/Unwanted Purchases
+1963,Discount Appreciation
+1964,complaint resolution
+1965,Energy Supplements & Feedback on Store Knowledge
+1966,Pricing and Promotions
+1967,brand loyalty
+1968,Product Ingredients
+1969,Damaged Orders
+1970,store display
+1971,Vitamin C Supplement Information
+1972,replacement requests
+1973,Product Authenticity Verification
+1974,Product Inquiry/Separation of Natural Peanut Butter
+1975,Order Delays & Communication Issues
+1976,Order Delays & Communication Issues
+1977,Almond Milk Sugar Content Inquiry
+1978,Order Confirmation Issues
+1979,packaging issues
+1980,Discrimination
+1981,smooth ordering process
+1982,Rewards Points Issues
+1983,Order Issues
+1984,Positive Staff Feedback
+1985,Order Issues
+1986,accurate product information
+1987,inconsistent policies
+1988,Login Issues
+1989,long wait times
+1990,Pricing and Promotions
+1991,store stock availability
+1992,Damaged Bottles
+1993,Order Refunds
+1994,Store Staff Feedback
+1995,Poor Store Service
+1996,Product Availability
+1997,App Account Issues
+1998,shopping experience
+1999,Order Delays & Communication Issues
+2000,In-store issues
+2001,Positive Staff Feedback
+2002,order status updates
+2003,Poor Store Service
+2004,Damaged Orders
+2005,Menopause Supplements
+2006,customer preferences
+2007,Skincare Order Status
+2008,Order Refund
+2009,Customer Appreciation
+2010,product ingredients
+2011,miscommunication
+2012,Order Issues
+2013,Order Issues
+2014,discontinued products
+2015,health products
+2016,Poor Store Service
+2017,Order Issue/Promotion Application
+2018,Customer Appreciation
+2019,international shipping
+2020,Order Confirmation Issues
+2021,Order Refunds
+2022,authentic products
+2023,Delivery Address Update
+2024,Pricing and Promotions
+2025,Order Cancellation
+2026,refund process
+2027,App Account Issues
+2028,Customer Complaints
+2029,Order Collection Issues
+2030,product ingredients
+2031,BOGO Confusion
+2032,Pricing and Promotions
+2033,app assistance
+2034,Returning Unopened Items
+2035,Order Cancellation
+2036,Order Refunds
+2037,Sales Pressure/Unwanted Purchases
+2038,Store Staff Feedback
+2039,follow-up issues
+2040,Product Authenticity Verification
+2041,Positive Staff Feedback
+2042,Order Refunds
+2043,parcel issues
+2044,Pricing and Promotions
+2045,Order Refund
+2046,Order Cancellation
+2047,Product Inquiry & Recommendation (Organic Moisturizer)
+2048,Coupon Issues
+2049,Accurate Product Information
+2050,staff knowledge
+2051,Positive Customer Feedback & Multivitamin Purchase
+2052,Positive Staff Feedback
+2053,promotions and offers
+2054,Order Cancellation (Click and Collect)
+2055,long wait times
+2056,product selection
+2057,customer service feedback
+2058,Order Issues
+2059,Omega-3 Aftertaste Issue
+2060,Expert Guidance
+2061,Order Cancellation
+2062,Efficient Service
+2063,Positive Staff Feedback
+2064,Pricing and Promotions
+2065,Delayed International Shipping
+2066,Positive Staff Feedback
+2067,regular customer
+2068,Order Issues
+2069,Order Collection Issues
+2070,Customer Appreciation
+2071,Card Payment Issues
+2072,Conscious Beauty Products
+2073,price comparison
+2074,Login Issues
+2075,order status updates
+2076,organic products
+2077,Damaged Protein Powder Orders
+2078,order tracking
+2079,Positive Staff Feedback
+2080,Value for money
+2081,Remedy Kombucha Inquiry
+2082,Promotion and Offers
+2083,Returning Unopened Items
+2084,Complaint about unhelpful staff in Birmingham store
+2085,Incomplete Orders
+2086,Damaged Orders
+2087,Protein Powder Recommendations (In-Store Pickup)
+2088,Product Authenticity Verification
+2089,Customer Appreciation
+2090,transparency issues
+2091,Order Delays & Communication Issues
+2092,Inconsistent Experience
+2093,Refund process
+2094,Store Staff Feedback
+2095,Order Delays
+2096,Order not received
+2097,Order Tracking
+2098,Store Feedback
+2099,Order Delays
+2100,Order Cancellation
+2101,trustworthy products
+2102,Probiotic Supplements
+2103,inconsistent policies
+2104,Discontinued Product Alternative
+2105,Positive Customer Interaction - Organic Tea Purchase
+2106,Order Tracking
+2107,inconsistent experience
+2108,Order Delays & Communication Issues
+2109,price comparison
+2110,App Account Issues
+2111,Customer Appreciation
+2112,Missing Item from Order
+2113,Delivery Address Update
+2114,Order Delays
+2115,Discrimination
+2116,Positive Recommendations
+2117,Store Staff Feedback
+2118,Store Feedback
+2119,Positive Feedback
+2120,Authentic Products
+2121,Follow-up Issues
+2122,Damaged Orders
+2123,Customer Complaints
+2124,Damaged Bottles
+2125,Customer Complaints
+2126,supplement advice
+2127,Omega-3 Supplements
+2128,Pricing and Promotions
+2129,incomplete orders
+2130,Sales Pressure/Unwanted Purchases
+2131,Order Delays
+2132,Gluten-Free Product Issues
+2133,product condition
+2134,in-store issues
+2135,Order Status Updates
+2136,Delivery Address Update
+2137,Voucher Redemption Issues
+2138,Order Collection Issues
+2139,Pricing and Promotions
+2140,Transparency Issue with Vitamin Label
+2141,Card Payment Issues
+2142,Poor Store Service
+2143,Discrimination
+2144,Transparency Issues Regarding Vitamin Tablet Ingredients
+2145,order status updates
+2146,Pricing and Promotions
+2147,Order Issues
+2148,Store Early Closure
+2149,Order Status Updates
+2150,Product Inquiry
+2151,Order Cancellation
+2152,repeat purchases
+2153,Positive Staff Feedback
+2154,Pricing and Promotions
+2155,Positive Feedback
+2156,Complaint Resolution
+2157,Damaged Bottles
+2158,Pricing and Promotions
+2159,customer preferences
+2160,in-store issues
+2161,Customer Appreciation
+2162,Order Delays
+2163,promotions and offers
+2164,Customer Feedback - Store Display
+2165,shopping experience
+2166,Login Issues
+2167,order tracking
+2168,Gluten-Free Product Issues
+2169,order status updates
+2170,miscommunication
+2171,Delivery Address Update
+2172,Hair Products
+2173,Hair Growth Supplements
+2174,Product Replacements
+2175,Product Refunds
+2176,Store Staff Service
+2177,Product Return & In-Store Shopping Preference
+2178,product condition
+2179,Positive Staff Feedback
+2180,Follow-up Issue - Unresolved Customer Complaint
+2181,Login Issues
+2182,Order Issues
+2183,Order Refunds
+2184,miscommunication
+2185,In-Store Pricing and Promotions via App
+2186,Positive Staff Feedback
+2187,Delayed Complaint Resolution
+2188,Damaged Orders
+2189,lack of respect
+2190,Product Nutritional Information Inquiry
+2191,inconsistent policies
+2192,trustworthy products
+2193,Miscommunication
+2194,Order Issues
+2195,Customer Complaints
+2196,promotions and offers
+2197,customer preferences
+2198,Pricing and Promotions
+2199,Customer Complaints
+2200,Positive Staff Feedback
+2201,Pricing and Promotions
+2202,international shipping
+2203,App Account Issues
+2204,allergy-sensitive products
+2205,App/Website Usability Issues
+2206,Store Staff Feedback
+2207,gratitude
+2208,promotions and offers
+2209,Damaged Protein Powder Orders
+2210,Order not received
+2211,Order Delays
+2212,Skincare Order Status
+2213,click and collect
+2214,order not received
+2215,subscription service
+2216,Returning Unopened Items
+2217,Order Collection Issues
+2218,Login Issues
+2219,Incorrect Orders
+2220,Order Confirmation Issues
+2221,discontinued products
+2222,Informative service
+2223,App/Website usability issues
+2224,customer preferences
+2225,Order Refunds
+2226,Voucher Issues
+2227,Missing Item in Vegan Hamper Order
+2228,order not received
+2229,convenient location
+2230,Missing Instructions
+2231,Positive Staff Feedback
+2232,Store Staff Feedback
+2233,Poor Store Service
+2234,Skincare Order Status
+2235,store organization
+2236,Delayed Complaint Resolution
+2237,Delivery Address Update
+2238,Positive Staff Feedback
+2239,Hair Growth Supplements
+2240,Product Discontinuation & Replacement
+2241,expiration date issues
+2242,Order Delays & Communication Issues
+2243,supplement advice
+2244,Damaged Orders
+2245,Order Issues
+2246,Customer Appreciation
+2247,Positive Staff Feedback
+2248,App Account Issues
+2249,Complaint Resolution
+2250,Damaged Orders
+2251,Coupon Issues
+2252,accurate product information
+2253,Store Staff Feedback
+2254,Positive Staff Feedback
+2255,Complaint Resolution
+2256,unresponsive support
+2257,Inconsistent Experience
+2258,Customer Appreciation
+2259,unresponsive support
+2260,Payment Issues
+2261,Incorrect Orders
+2262,Customer Complaints
+2263,Positive Staff Feedback
+2264,expiration date issues
+2265,Complaint Resolution
+2266,Omega-3 Supplement Subscription Delivery Issue
+2267,Order Refunds
+2268,Price comparison
+2269,Positive Recommendations
+2270,Card Payment Issues
+2271,Positive Feedback
+2272,Gluten-Free Product Issues
+2273,Protein Powder Recommendations
+2274,Order Delays
+2275,BOGO Offer Issue Resolved
+2276,Order Issues
+2277,Order Issues
+2278,Order Delays & Communication Issues
+2279,Expert Guidance
+2280,Order Refunds
+2281,Packaging Issues
+2282,inconsistent experience
+2283,delivery issues
+2284,Order Delays
+2285,Customer Appreciation
+2286,Order Refund
+2287,Order Issues
+2288,Sleep Supplements: Addressing Customer's Lack of Improvement with Magnesium
+2289,Gluten-Free Product Issues
+2290,discount appreciation
+2291,Incorrect Order Fulfillment
+2292,transparency issues
+2293,Order Cancellation
+2294,Pricing and Promotions
+2295,Store Display
+2296,Order Cancellation
+2297,Skincare Order Status
+2298,Delayed Complaint Resolution
+2299,Protein Pancake Mix Inquiry
+2300,Order Confirmation Issues
+2301,heart health supplements
+2302,Damaged Protein Powder Orders
+2303,Order Status Update
+2304,Discrimination
+2305,Store Early Closure
+2306,Sleep Supplements
+2307,Store Early Closure
+2308,store stock availability
+2309,Store Staff Feedback
+2310,Immune Support Supplements
+2311,App Assistance
+2312,Order Delays
+2313,Damaged Orders
+2314,staff knowledge
+2315,store stock availability
+2316,Damaged Orders
+2317,Store Staff Feedback
+2318,Order Cancellation
+2319,order status updates
+2320,accurate product information
+2321,Customer Appreciation
+2322,Misinformation about Biotin Benefits Leads to Product Exchange
+2323,international shipping
+2324,Customer Feedback Leading to Product Recommendation
+2325,Order Issues
+2326,Inconsistent Experience
+2327,Complaint Resolution
+2328,Damaged Orders
+2329,Repeat Purchases
+2330,promotion and offers
+2331,Positive Staff Feedback
+2332,Expert Guidance
+2333,Chertsey Store - Navigation Issues
+2334,Hair Growth Supplements
+2335,Customer Complaints
+2336,Positive Customer Feedback - Children's Multivitamin
+2337,Stress & Anxiety Supplements
+2338,online ordering
+2339,Missing Items in Order
+2340,Positive Staff Feedback
+2341,Store Staff Service
+2342,Order Issues
+2343,Positive Staff Feedback
+2344,Rice Flour Nutritional Information
+2345,Order Issues
+2346,incorrect orders

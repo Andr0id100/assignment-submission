@@ -1,0 +1,2348 @@
+conversation_id,tag,user_final_sentiment
+0,store closing hours,Neutral
+1,repeat purchases,Positive
+2,supplement advice,Positive
+3,staff interaction,Positive
+4,hair products,Positive
+5,convenient location,Positive
+6,product effectiveness,Positive
+7,store organization,Neutral
+8,store closing hours,Positive
+9,store closing hours,Positive
+10,friendly staff,Positive
+11,price comparison,Positive
+12,subscription service,Positive
+13,app assistance,Positive
+14,efficient service,Positive
+15,promotion and offers,Positive
+16,accurate product information,Positive
+17,product condition,Positive
+18,health products,Positive
+19,menopause advice,Positive
+20,allergy-sensitive products,Positive
+21,product ingredients,Positive
+22,impulse buying,Positive
+23,online ordering,Positive
+24,health products,Positive
+25,organic products,Positive
+26,packaging issues,Positive
+27,expert guidance,Positive
+28,product recommendations,Positive
+29,lack of respect,Negative
+30,hair products,Positive
+31,expiration date issues,Positive
+32,order tracking,Positive
+33,value for money,Positive
+34,hair products,Positive
+35,gratitude,Positive
+36,promotion and offers,Positive
+37,subscription service,Positive
+38,follow-up issues,Negative
+39,product condition,Positive
+40,order not received,Positive
+41,incomplete orders,Positive
+42,store closing hours,Neutral
+43,transparency issues,Positive
+44,product recommendations,Positive
+45,order cancellation,Positive
+46,replacement requests,Positive
+47,long wait times,Positive
+48,gratitude,Positive
+49,store display,Positive
+50,click and collect,Positive
+51,value for money,Positive
+52,convenient location,Positive
+53,app assistance,Positive
+54,unresponsive support,Positive
+55,positive recommendations,Positive
+56,voucher issues,Positive
+57,hair products,Positive
+58,online ordering,Positive
+59,parcel issues,Positive
+60,promotion and offers,Positive
+61,staff interaction,Positive
+62,incorrect orders,Positive
+63,pricing issues,Positive
+64,payment issues,Positive
+65,health products,Positive
+66,customer value,Positive
+67,health products,Positive
+68,misleading information,Negative
+69,nutritional information,Positive
+70,intimidating behavior,Negative
+71,pricing issues,Positive
+72,promotion and offers,Positive
+73,order cancellation,Positive
+74,order not received,Negative
+75,app/website usability issues,Positive
+76,incomplete orders,Positive
+77,app assistance,Positive
+78,follow-up issues,Positive
+79,organic products,Positive
+80,app assistance,Positive
+81,online ordering,Positive
+82,nutritional information,Positive
+83,order collection issues,Positive
+84,transparency issues,Positive
+85,accurate product information,Positive
+86,product recommendations,Positive
+87,expiration date issues,Positive
+88,replacement requests,Positive
+89,in-store issues,Positive
+90,product selection,Positive
+91,staff knowledge,Positive
+92,rewards program,Positive
+93,payment issues,Positive
+94,supplement advice,Positive
+95,international shipping,Positive
+96,accurate product information,Positive
+97,friendly staff,Positive
+98,expert guidance,Positive
+99,product effectiveness,Neutral
+100,promotions and offers,Positive
+101,friendly staff,Positive
+102,rewards program,Positive
+103,discount appreciation,Positive
+104,staff knowledge,Neutral
+105,voucher issues,Positive
+106,discount appreciation,Positive
+107,inconsistent policies,Positive
+108,promotions and offers,Positive
+109,miscommunication,Positive
+110,product selection,Positive
+111,allergy-sensitive products,Positive
+112,unresponsive support,Positive
+113,product recommendations,Positive
+114,order status updates,Positive
+115,refund process,Positive
+116,inconsistent experience,Negative
+117,informative service,Positive
+118,order not received,Negative
+119,inconsistent experience,Positive
+120,shopping experience,Positive
+121,product selection,Positive
+122,order tracking,Neutral
+123,communication issues,Negative
+124,complaint resolution,Neutral
+125,trustworthy products,Positive
+126,authentic products,Positive
+127,order not received,Positive
+128,complaint resolution,Negative
+129,miscommunication,Positive
+130,click and collect,Positive
+131,discrimination,Positive
+132,accurate product information,Positive
+133,friendly staff,Positive
+134,customer value,Positive
+135,health concerns,Positive
+136,promotions and offers,Positive
+137,efficient service,Positive
+138,payment issues,Neutral
+139,product selection,Positive
+140,discount appreciation,Positive
+141,delivery issues,Positive
+142,product ingredients,Positive
+143,professionalism,Negative
+144,store stock availability,Neutral
+145,accurate product information,Positive
+146,long wait times,Positive
+147,long wait times,Positive
+148,online ordering,Positive
+149,parcel issues,Positive
+150,replacement requests,Positive
+151,menopause advice,Positive
+152,discontinued products,Positive
+153,rewards program,Positive
+154,international shipping,Neutral
+155,rewards program,Positive
+156,incorrect orders,Positive
+157,product ingredients,Positive
+158,staff knowledge,Positive
+159,inconsistent experience,Neutral
+160,order tracking,Positive
+161,login issues,Positive
+162,faulty/damaged products,Positive
+163,click and collect,Positive
+164,lack of respect,Negative
+165,order status updates,Positive
+166,product selection,Positive
+167,miscommunication,Positive
+168,trustworthy products,Positive
+169,incomplete orders,Positive
+170,store stock availability,Neutral
+171,store organization,Positive
+172,online ordering,Neutral
+173,customer service feedback,Neutral
+174,menopause advice,Positive
+175,supplement advice,Positive
+176,order cancellation,Positive
+177,impulse buying,Positive
+178,impulse buying,Positive
+179,allergy-sensitive products,Negative
+180,regular customer,Positive
+181,store closing hours,Positive
+182,communication issues,Positive
+183,hair products,Positive
+184,repeat purchases,Positive
+185,store organization,Positive
+186,unresponsive support,Positive
+187,impulse buying,Negative
+188,order tracking,Positive
+189,incorrect orders,Positive
+190,inconsistent policies,Positive
+191,health concerns,Neutral
+192,accurate product information,Positive
+193,in-store issues,Positive
+194,intimidating behavior,Positive
+195,order cancellation,Positive
+196,promotions and offers,Positive
+197,gratitude,Positive
+198,expert guidance,Positive
+199,order collection issues,Neutral
+200,expiration date issues,Positive
+201,repeat purchases,Positive
+202,promotions and offers,Positive
+203,customer preferences,Positive
+204,app/website usability issues,Positive
+205,address issues,Positive
+206,discount appreciation,Positive
+207,customer service feedback,Negative
+208,vegetarian and vegan options,Positive
+209,address issues,Positive
+210,follow-up issues,Neutral
+211,misleading information,Negative
+212,store display,Negative
+213,in-store issues,Positive
+214,long wait times,Neutral
+215,payment issues,Positive
+216,transparency issues,Negative
+217,allergy-sensitive products,Negative
+218,efficient service,Positive
+219,rewards program,Positive
+220,inconsistent experience,Positive
+221,discrimination,Negative
+222,unresponsive support,Positive
+223,incomplete orders,Positive
+224,staff knowledge,Positive
+225,order status updates,Positive
+226,address issues,Positive
+227,packaging issues,Positive
+228,friendly staff,Positive
+229,repeat purchases,Positive
+230,click and collect,Positive
+231,international shipping,Positive
+232,click and collect,Positive
+233,allergy-sensitive products,Positive
+234,unresponsive support,Positive
+235,brand loyalty,Positive
+236,lack of respect,Negative
+237,address issues,Positive
+238,supplement advice,Positive
+239,address issues,Positive
+240,misleading information,Negative
+241,login issues,Positive
+242,discount appreciation,Positive
+243,lack of respect,Neutral
+244,order cancellation,Positive
+245,communication issues,Negative
+246,misleading information,Negative
+247,order not received,Positive
+248,subscription service,Positive
+249,payment issues,Positive
+250,app/website usability issues,Neutral
+251,parcel issues,Positive
+252,order not received,Positive
+253,authentic products,Positive
+254,transparency issues,Neutral
+255,discrimination,Neutral
+256,incomplete orders,Positive
+257,order not received,Positive
+258,store display,Negative
+259,nutritional information,Positive
+260,promotions and offers,Positive
+261,order collection issues,Neutral
+262,packaging issues,Positive
+263,online ordering,Positive
+264,positive recommendations,Positive
+265,health concerns,Positive
+266,value for money,Positive
+267,click and collect,Neutral
+268,order not received,Negative
+269,online ordering,Positive
+270,accurate product information,Positive
+271,delivery issues,Positive
+272,store stock availability,Positive
+273,gratitude,Positive
+274,subscription service,Positive
+275,authentic products,Positive
+276,store closing hours,Positive
+277,communication issues,Negative
+278,accurate product information,Negative
+279,app/website usability issues,Positive
+280,delivery issues,Positive
+281,staff interaction,Negative
+282,international shipping,Positive
+283,discount appreciation,Positive
+284,gratitude,Positive
+285,transparency issues,Positive
+286,discrimination,Negative
+287,store stock availability,Positive
+288,efficient service,Negative
+289,menopause advice,Positive
+290,delivery issues,Positive
+291,shopping experience,Positive
+292,professionalism,Negative
+293,informative service,Positive
+294,order tracking,Positive
+295,regular customer,Positive
+296,store closing hours,Positive
+297,health products,Positive
+298,menopause advice,Positive
+299,incomplete orders,Positive
+300,organic products,Positive
+301,online ordering,Positive
+302,promotion and offers,Positive
+303,replacement requests,Positive
+304,discount appreciation,Positive
+305,packaging issues,Positive
+306,friendly staff,Positive
+307,order collection issues,Neutral
+308,pricing issues,Positive
+309,impulse buying,Positive
+310,store display,Positive
+311,customer service feedback,Positive
+312,brand loyalty,Positive
+313,discrimination,Positive
+314,delivery issues,Positive
+315,product condition,Positive
+316,order tracking,Positive
+317,supplement advice,Positive
+318,expert guidance,Positive
+319,gratitude,Positive
+320,miscommunication,Positive
+321,prompt service,Positive
+322,value for money,Positive
+323,positive recommendations,Positive
+324,faulty/damaged products,Positive
+325,expert guidance,Positive
+326,promotion and offers,Positive
+327,expiration date issues,Positive
+328,store closing hours,Positive
+329,menopause advice,Positive
+330,lack of respect,Neutral
+331,convenient location,Positive
+332,address issues,Positive
+333,discount appreciation,Positive
+334,order cancellation,Positive
+335,staff knowledge,Positive
+336,store closing hours,Positive
+337,product recommendations,Positive
+338,promotions and offers,Positive
+339,subscription service,Positive
+340,smooth ordering process,Positive
+341,transparency issues,Positive
+342,product recommendations,Positive
+343,payment issues,Positive
+344,gratitude,Positive
+345,health products,Positive
+346,communication issues,Positive
+347,staff knowledge,Neutral
+348,accurate product information,Positive
+349,gratitude,Positive
+350,incorrect orders,Positive
+351,discount appreciation,Positive
+352,faulty/damaged products,Positive
+353,inconsistent experience,Neutral
+354,subscription service,Positive
+355,impulse buying,Negative
+356,regular customer,Positive
+357,promotion and offers,Positive
+358,misleading information,Negative
+359,shopping experience,Positive
+360,online ordering,Positive
+361,product selection,Positive
+362,menopause advice,Positive
+363,informative service,Positive
+364,customer service feedback,Positive
+365,health concerns,Positive
+366,order not received,Positive
+367,hair products,Positive
+368,hair products,Positive
+369,smooth ordering process,Positive
+370,customer service feedback,Positive
+371,misleading information,Negative
+372,menopause advice,Positive
+373,price comparison,Neutral
+374,customer value,Positive
+375,product ingredients,Positive
+376,allergy-sensitive products,Positive
+377,menopause advice,Positive
+378,product effectiveness,Neutral
+379,pricing issues,Positive
+380,customer value,Positive
+381,price comparison,Positive
+382,international shipping,Positive
+383,product ingredients,Neutral
+384,discontinued products,Positive
+385,long wait times,Positive
+386,product ingredients,Positive
+387,online ordering,Positive
+388,hair products,Positive
+389,delivery issues,Positive
+390,discount appreciation,Positive
+391,expiration date issues,Positive
+392,positive recommendations,Positive
+393,product ingredients,Positive
+394,pricing issues,Positive
+395,discount appreciation,Positive
+396,positive recommendations,Positive
+397,long wait times,Negative
+398,product selection,Positive
+399,allergy-sensitive products,Positive
+400,expert guidance,Positive
+401,address issues,Positive
+402,impulse buying,Positive
+403,replacement requests,Positive
+404,product condition,Positive
+405,informative service,Positive
+406,nutritional information,Positive
+407,incorrect orders,Positive
+408,complaint resolution,Negative
+409,packaging issues,Positive
+410,impulse buying,Neutral
+411,login issues,Positive
+412,nutritional information,Positive
+413,impulse buying,Positive
+414,value for money,Positive
+415,unresponsive support,Positive
+416,authentic products,Positive
+417,discount appreciation,Positive
+418,health concerns,Neutral
+419,friendly staff,Positive
+420,repeat purchases,Positive
+421,promotion and offers,Positive
+422,organic products,Positive
+423,supplement advice,Positive
+424,store stock availability,Positive
+425,organic products,Positive
+426,delivery issues,Positive
+427,miscommunication,Positive
+428,vegetarian and vegan options,Positive
+429,follow-up issues,Negative
+430,supplement advice,Positive
+431,supplement advice,Positive
+432,discrimination,Positive
+433,hair products,Positive
+434,product selection,Positive
+435,shopping experience,Positive
+436,repeat purchases,Positive
+437,app assistance,Positive
+438,customer preferences,Positive
+439,packaging issues,Positive
+440,order collection issues,Positive
+441,parcel issues,Positive
+442,friendly staff,Positive
+443,app/website usability issues,Positive
+444,store closing hours,Positive
+445,delivery issues,Positive
+446,product recommendations,Positive
+447,inconsistent policies,Positive
+448,allergy-sensitive products,Positive
+449,smooth ordering process,Positive
+450,follow-up issues,Negative
+451,health concerns,Positive
+452,online ordering,Positive
+453,value for money,Positive
+454,customer service feedback,Positive
+455,friendly staff,Positive
+456,friendly staff,Positive
+457,discrimination,Negative
+458,in-store issues,Positive
+459,faulty/damaged products,Positive
+460,price comparison,Positive
+461,international shipping,Positive
+462,efficient service,Positive
+463,product ingredients,Positive
+464,intimidating behavior,Negative
+465,discrimination,Neutral
+466,order cancellation,Positive
+467,prompt service,Positive
+468,hair products,Positive
+469,discontinued products,Positive
+470,product effectiveness,Neutral
+471,efficient service,Positive
+472,app assistance,Positive
+473,intimidating behavior,Negative
+474,in-store issues,Positive
+475,staff knowledge,Positive
+476,promotion and offers,Positive
+477,delivery issues,Positive
+478,transparency issues,Negative
+479,store display,Positive
+480,informative service,Positive
+481,online ordering,Positive
+482,order status updates,Positive
+483,menopause advice,Positive
+484,smooth ordering process,Positive
+485,product recommendations,Positive
+486,faulty/damaged products,Positive
+487,regular customer,Positive
+488,menopause advice,Neutral
+489,product condition,Positive
+490,positive recommendations,Positive
+491,staff interaction,Positive
+492,delivery issues,Positive
+493,store closing hours,Positive
+494,address issues,Positive
+495,online ordering,Positive
+496,health products,Positive
+497,friendly staff,Positive
+498,store display,Positive
+499,gratitude,Positive
+500,brand loyalty,Positive
+501,trustworthy products,Positive
+502,order not received,Positive
+503,allergy-sensitive products,Positive
+504,app assistance,Positive
+505,intimidating behavior,Negative
+506,refund process,Positive
+507,parcel issues,Positive
+508,order status updates,Positive
+509,order status updates,Positive
+510,intimidating behavior,Positive
+511,supplement advice,Positive
+512,product condition,Positive
+513,order cancellation,Positive
+514,supplement advice,Positive
+515,gratitude,Positive
+516,incorrect orders,Positive
+517,professionalism,Negative
+518,lack of respect,Neutral
+519,subscription service,Positive
+520,repeat purchases,Positive
+521,faulty/damaged products,Positive
+522,order collection issues,Positive
+523,supplement advice,Positive
+524,product condition,Positive
+525,voucher issues,Positive
+526,authentic products,Positive
+527,parcel issues,Positive
+528,health products,Positive
+529,transparency issues,Positive
+530,expiration date issues,Positive
+531,faulty/damaged products,Positive
+532,organic products,Positive
+533,shopping experience,Positive
+534,gratitude,Positive
+535,incomplete orders,Positive
+536,incomplete orders,Negative
+537,app assistance,Positive
+538,voucher issues,Positive
+539,supplement advice,Positive
+540,incomplete orders,Positive
+541,voucher issues,Positive
+542,store stock availability,Positive
+543,rewards program,Positive
+544,regular customer,Positive
+545,discount appreciation,Positive
+546,discount appreciation,Positive
+547,trustworthy products,Positive
+548,brand loyalty,Positive
+549,click and collect,Positive
+550,store display,Positive
+551,vegetarian and vegan options,Positive
+552,faulty/damaged products,Positive
+553,discrimination,Negative
+554,product selection,Positive
+555,efficient service,Positive
+556,click and collect,Positive
+557,product selection,Positive
+558,product condition,Positive
+559,efficient service,Positive
+560,product condition,Positive
+561,discontinued products,Positive
+562,hair products,Positive
+563,in-store issues,Positive
+564,staff interaction,Positive
+565,transparency issues,Positive
+566,order not received,Positive
+567,incorrect orders,Positive
+568,product recommendations,Positive
+569,misleading information,Negative
+570,smooth ordering process,Positive
+571,gratitude,Positive
+572,customer preferences,Positive
+573,efficient service,Positive
+574,order not received,Negative
+575,discount appreciation,Positive
+576,vegetarian and vegan options,Positive
+577,supplement advice,Positive
+578,authentic products,Positive
+579,complaint resolution,Neutral
+580,in-store issues,Neutral
+581,store organization,Positive
+582,allergy-sensitive products,Positive
+583,positive recommendations,Positive
+584,address issues,Positive
+585,customer preferences,Positive
+586,vegetarian and vegan options,Positive
+587,store display,Positive
+588,smooth ordering process,Positive
+589,packaging issues,Positive
+590,convenient location,Positive
+591,subscription service,Positive
+592,allergy-sensitive products,Positive
+593,shopping experience,Positive
+594,vegetarian and vegan options,Positive
+595,vegetarian and vegan options,Positive
+596,impulse buying,Positive
+597,staff interaction,Positive
+598,click and collect,Positive
+599,expert guidance,Positive
+600,nutritional information,Positive
+601,product effectiveness,Neutral
+602,click and collect,Positive
+603,click and collect,Positive
+604,order cancellation,Positive
+605,payment issues,Positive
+606,supplement advice,Positive
+607,in-store issues,Positive
+608,pricing issues,Positive
+609,value for money,Positive
+610,intimidating behavior,Negative
+611,price comparison,Positive
+612,discount appreciation,Positive
+613,click and collect,Positive
+614,authentic products,Positive
+615,health products,Positive
+616,expiration date issues,Positive
+617,impulse buying,Positive
+618,app/website usability issues,Positive
+619,promotion and offers,Positive
+620,in-store issues,Positive
+621,international shipping,Positive
+622,expiration date issues,Positive
+623,online ordering,Neutral
+624,address issues,Positive
+625,pricing issues,Positive
+626,staff knowledge,Negative
+627,nutritional information,Positive
+628,inconsistent policies,Positive
+629,efficient service,Positive
+630,order not received,Positive
+631,complaint resolution,Neutral
+632,staff interaction,Positive
+633,packaging issues,Positive
+634,product effectiveness,Neutral
+635,product selection,Positive
+636,informative service,Positive
+637,order tracking,Positive
+638,store display,Positive
+639,pricing issues,Neutral
+640,friendly staff,Positive
+641,product selection,Positive
+642,store organization,Neutral
+643,app/website usability issues,Neutral
+644,inconsistent policies,Positive
+645,inconsistent policies,Positive
+646,lack of respect,Negative
+647,click and collect,Positive
+648,product effectiveness,Neutral
+649,rewards program,Positive
+650,app/website usability issues,Positive
+651,allergy-sensitive products,Positive
+652,gratitude,Positive
+653,replacement requests,Positive
+654,repeat purchases,Positive
+655,professionalism,Neutral
+656,hair products,Positive
+657,prompt service,Positive
+658,address issues,Positive
+659,health products,Positive
+660,communication issues,Negative
+661,replacement requests,Positive
+662,positive recommendations,Positive
+663,communication issues,Negative
+664,address issues,Positive
+665,customer service feedback,Positive
+666,efficient service,Positive
+667,allergy-sensitive products,Positive
+668,health products,Positive
+669,organic products,Positive
+670,smooth ordering process,Positive
+671,staff knowledge,Neutral
+672,voucher issues,Positive
+673,health products,Positive
+674,product condition,Positive
+675,staff knowledge,Positive
+676,follow-up issues,Neutral
+677,miscommunication,Positive
+678,supplement advice,Positive
+679,order tracking,Positive
+680,incorrect orders,Positive
+681,delivery issues,Positive
+682,trustworthy products,Positive
+683,health products,Positive
+684,payment issues,Neutral
+685,convenient location,Positive
+686,allergy-sensitive products,Positive
+687,online ordering,Positive
+688,lack of respect,Negative
+689,app assistance,Positive
+690,order collection issues,Neutral
+691,login issues,Negative
+692,product effectiveness,Positive
+693,brand loyalty,Positive
+694,store organization,Positive
+695,voucher issues,Positive
+696,product effectiveness,Neutral
+697,faulty/damaged products,Positive
+698,product recommendations,Positive
+699,value for money,Neutral
+700,organic products,Positive
+701,in-store issues,Positive
+702,pricing issues,Positive
+703,expiration date issues,Positive
+704,customer service feedback,Negative
+705,store stock availability,Neutral
+706,complaint resolution,Neutral
+707,vegetarian and vegan options,Positive
+708,order cancellation,Positive
+709,communication issues,Negative
+710,rewards program,Positive
+711,payment issues,Positive
+712,customer service feedback,Positive
+713,discount appreciation,Positive
+714,staff knowledge,Positive
+715,follow-up issues,Neutral
+716,incomplete orders,Positive
+717,subscription service,Positive
+718,store closing hours,Positive
+719,staff interaction,Negative
+720,positive recommendations,Positive
+721,complaint resolution,Negative
+722,online ordering,Neutral
+723,informative service,Positive
+724,repeat purchases,Positive
+725,order cancellation,Positive
+726,long wait times,Positive
+727,discount appreciation,Positive
+728,complaint resolution,Negative
+729,customer preferences,Positive
+730,shopping experience,Positive
+731,staff knowledge,Positive
+732,complaint resolution,Positive
+733,nutritional information,Positive
+734,intimidating behavior,Negative
+735,app assistance,Positive
+736,rewards program,Positive
+737,online ordering,Positive
+738,lack of respect,Positive
+739,store display,Positive
+740,discontinued products,Positive
+741,customer preferences,Positive
+742,value for money,Positive
+743,product selection,Positive
+744,store organization,Neutral
+745,smooth ordering process,Positive
+746,accurate product information,Positive
+747,staff knowledge,Positive
+748,prompt service,Positive
+749,unresponsive support,Positive
+750,efficient service,Positive
+751,authentic products,Positive
+752,trustworthy products,Neutral
+753,parcel issues,Neutral
+754,vegetarian and vegan options,Positive
+755,supplement advice,Positive
+756,misleading information,Negative
+757,health concerns,Neutral
+758,accurate product information,Positive
+759,positive recommendations,Positive
+760,menopause advice,Positive
+761,health concerns,Negative
+762,health products,Positive
+763,pricing issues,Positive
+764,delivery issues,Positive
+765,promotions and offers,Positive
+766,expert guidance,Positive
+767,store closing hours,Positive
+768,impulse buying,Neutral
+769,health concerns,Positive
+770,app/website usability issues,Positive
+771,expiration date issues,Positive
+772,staff interaction,Positive
+773,product effectiveness,Neutral
+774,unresponsive support,Positive
+775,app assistance,Neutral
+776,promotions and offers,Positive
+777,parcel issues,Positive
+778,gratitude,Positive
+779,product ingredients,Positive
+780,subscription service,Positive
+781,payment issues,Positive
+782,login issues,Positive
+783,rewards program,Positive
+784,product condition,Positive
+785,price comparison,Positive
+786,store stock availability,Positive
+787,product selection,Positive
+788,order status updates,Positive
+789,product ingredients,Positive
+790,repeat purchases,Positive
+791,subscription service,Positive
+792,health concerns,Positive
+793,prompt service,Positive
+794,packaging issues,Positive
+795,hair products,Positive
+796,discount appreciation,Positive
+797,value for money,Positive
+798,product selection,Positive
+799,follow-up issues,Neutral
+800,delivery issues,Positive
+801,convenient location,Positive
+802,packaging issues,Positive
+803,discount appreciation,Positive
+804,order not received,Positive
+805,informative service,Positive
+806,regular customer,Positive
+807,trustworthy products,Positive
+808,packaging issues,Positive
+809,miscommunication,Positive
+810,complaint resolution,Negative
+811,gratitude,Positive
+812,order not received,Positive
+813,vegetarian and vegan options,Positive
+814,expert guidance,Positive
+815,login issues,Positive
+816,long wait times,Negative
+817,health concerns,Positive
+818,lack of respect,Negative
+819,product recommendations,Positive
+820,order status updates,Positive
+821,brand loyalty,Positive
+822,promotion and offers,Positive
+823,product condition,Positive
+824,misleading information,Positive
+825,order collection issues,Positive
+826,value for money,Positive
+827,product recommendations,Positive
+828,health products,Positive
+829,click and collect,Positive
+830,lack of respect,Negative
+831,promotions and offers,Positive
+832,authentic products,Positive
+833,shopping experience,Positive
+834,in-store issues,Positive
+835,unresponsive support,Positive
+836,promotion and offers,Positive
+837,lack of respect,Neutral
+838,complaint resolution,Neutral
+839,product selection,Positive
+840,repeat purchases,Neutral
+841,product effectiveness,Neutral
+842,nutritional information,Positive
+843,price comparison,Positive
+844,store closing hours,Neutral
+845,voucher issues,Positive
+846,follow-up issues,Neutral
+847,accurate product information,Positive
+848,smooth ordering process,Positive
+849,incorrect orders,Positive
+850,address issues,Negative
+851,voucher issues,Positive
+852,address issues,Positive
+853,order not received,Neutral
+854,authentic products,Positive
+855,store stock availability,Neutral
+856,trustworthy products,Positive
+857,pricing issues,Positive
+858,incorrect orders,Positive
+859,product ingredients,Neutral
+860,online ordering,Positive
+861,discontinued products,Positive
+862,informative service,Positive
+863,incomplete orders,Positive
+864,promotion and offers,Positive
+865,nutritional information,Positive
+866,menopause advice,Positive
+867,staff interaction,Positive
+868,international shipping,Positive
+869,regular customer,Positive
+870,unresponsive support,Positive
+871,prompt service,Positive
+872,store organization,Neutral
+873,health products,Positive
+874,accurate product information,Positive
+875,order status updates,Positive
+876,click and collect,Positive
+877,discount appreciation,Positive
+878,product ingredients,Positive
+879,customer preferences,Negative
+880,customer service feedback,Positive
+881,vegetarian and vegan options,Positive
+882,authentic products,Positive
+883,convenient location,Positive
+884,product recommendations,Positive
+885,product selection,Positive
+886,allergy-sensitive products,Positive
+887,misleading information,Negative
+888,unresponsive support,Positive
+889,click and collect,Positive
+890,follow-up issues,Negative
+891,trustworthy products,Positive
+892,accurate product information,Negative
+893,expiration date issues,Positive
+894,product effectiveness,Neutral
+895,informative service,Positive
+896,positive recommendations,Positive
+897,discontinued products,Positive
+898,store organization,Neutral
+899,staff knowledge,Neutral
+900,allergy-sensitive products,Positive
+901,smooth ordering process,Positive
+902,supplement advice,Positive
+903,gratitude,Positive
+904,delivery issues,Positive
+905,health concerns,Positive
+906,prompt service,Positive
+907,customer preferences,Positive
+908,prompt service,Positive
+909,authentic products,Positive
+910,inconsistent experience,Positive
+911,app/website usability issues,Positive
+912,nutritional information,Positive
+913,product ingredients,Neutral
+914,supplement advice,Positive
+915,subscription service,Positive
+916,pricing issues,Positive
+917,online ordering,Positive
+918,inconsistent experience,Positive
+919,nutritional information,Positive
+920,app/website usability issues,Positive
+921,store organization,Positive
+922,health products,Positive
+923,payment issues,Positive
+924,prompt service,Positive
+925,parcel issues,Positive
+926,regular customer,Positive
+927,order tracking,Positive
+928,smooth ordering process,Positive
+929,product effectiveness,Neutral
+930,organic products,Positive
+931,transparency issues,Neutral
+932,supplement advice,Positive
+933,informative service,Positive
+934,customer value,Positive
+935,convenient location,Positive
+936,in-store issues,Positive
+937,order collection issues,Positive
+938,incorrect orders,Positive
+939,accurate product information,Positive
+940,lack of respect,Neutral
+941,subscription service,Positive
+942,customer value,Positive
+943,pricing issues,Positive
+944,click and collect,Positive
+945,store display,Positive
+946,regular customer,Positive
+947,value for money,Positive
+948,store closing hours,Positive
+949,order status updates,Positive
+950,discrimination,Negative
+951,positive recommendations,Positive
+952,order cancellation,Positive
+953,gratitude,Positive
+954,store organization,Neutral
+955,promotion and offers,Positive
+956,product effectiveness,Positive
+957,organic products,Positive
+958,customer service feedback,Positive
+959,login issues,Positive
+960,product selection,Positive
+961,supplement advice,Positive
+962,repeat purchases,Positive
+963,staff interaction,Negative
+964,store closing hours,Neutral
+965,faulty/damaged products,Positive
+966,shopping experience,Positive
+967,supplement advice,Positive
+968,miscommunication,Positive
+969,nutritional information,Neutral
+970,store organization,Positive
+971,brand loyalty,Positive
+972,customer service feedback,Positive
+973,order cancellation,Positive
+974,address issues,Positive
+975,delivery issues,Positive
+976,positive recommendations,Positive
+977,promotion and offers,Positive
+978,online ordering,Positive
+979,incorrect orders,Positive
+980,international shipping,Positive
+981,gratitude,Positive
+982,price comparison,Positive
+983,staff interaction,Positive
+984,impulse buying,Positive
+985,click and collect,Positive
+986,international shipping,Positive
+987,shopping experience,Positive
+988,brand loyalty,Positive
+989,complaint resolution,Neutral
+990,store display,Positive
+991,transparency issues,Neutral
+992,store closing hours,Positive
+993,staff knowledge,Positive
+994,customer service feedback,Positive
+995,informative service,Positive
+996,communication issues,Neutral
+997,payment issues,Positive
+998,product effectiveness,Neutral
+999,order tracking,Positive
+1000,international shipping,Positive
+1001,staff interaction,Positive
+1002,vegetarian and vegan options,Positive
+1003,prompt service,Positive
+1004,order not received,Positive
+1005,prompt service,Positive
+1006,follow-up issues,Negative
+1007,incorrect orders,Positive
+1008,positive recommendations,Positive
+1009,informative service,Positive
+1010,friendly staff,Positive
+1011,accurate product information,Positive
+1012,expiration date issues,Positive
+1013,parcel issues,Positive
+1014,online ordering,Positive
+1015,positive recommendations,Positive
+1016,staff knowledge,Neutral
+1017,order cancellation,Positive
+1018,communication issues,Negative
+1019,faulty/damaged products,Positive
+1020,product effectiveness,Neutral
+1021,unresponsive support,Positive
+1022,vegetarian and vegan options,Positive
+1023,miscommunication,Positive
+1024,login issues,Positive
+1025,subscription service,Positive
+1026,promotions and offers,Neutral
+1027,address issues,Positive
+1028,voucher issues,Positive
+1029,product condition,Positive
+1030,communication issues,Negative
+1031,discrimination,Positive
+1032,order tracking,Positive
+1033,pricing issues,Positive
+1034,store display,Negative
+1035,inconsistent policies,Positive
+1036,health products,Positive
+1037,supplement advice,Positive
+1038,trustworthy products,Positive
+1039,order collection issues,Positive
+1040,store display,Positive
+1041,follow-up issues,Negative
+1042,staff interaction,Positive
+1043,pricing issues,Positive
+1044,hair products,Positive
+1045,discrimination,Negative
+1046,menopause advice,Positive
+1047,international shipping,Positive
+1048,customer value,Positive
+1049,transparency issues,Negative
+1050,efficient service,Positive
+1051,informative service,Positive
+1052,discount appreciation,Positive
+1053,shopping experience,Positive
+1054,miscommunication,Positive
+1055,payment issues,Positive
+1056,gratitude,Positive
+1057,store stock availability,Negative
+1058,store organization,Positive
+1059,vegetarian and vegan options,Positive
+1060,product recommendations,Positive
+1061,allergy-sensitive products,Positive
+1062,transparency issues,Neutral
+1063,store closing hours,Positive
+1064,health products,Positive
+1065,follow-up issues,Neutral
+1066,impulse buying,Positive
+1067,store stock availability,Positive
+1068,friendly staff,Positive
+1069,store display,Negative
+1070,subscription service,Positive
+1071,customer service feedback,Positive
+1072,app assistance,Positive
+1073,follow-up issues,Neutral
+1074,regular customer,Positive
+1075,product condition,Positive
+1076,rewards program,Positive
+1077,expert guidance,Positive
+1078,product recommendations,Positive
+1079,store display,Positive
+1080,trustworthy products,Positive
+1081,positive recommendations,Positive
+1082,expiration date issues,Positive
+1083,smooth ordering process,Positive
+1084,product recommendations,Positive
+1085,store display,Positive
+1086,store stock availability,Positive
+1087,lack of respect,Negative
+1088,staff knowledge,Neutral
+1089,health products,Positive
+1090,product condition,Positive
+1091,faulty/damaged products,Positive
+1092,login issues,Positive
+1093,value for money,Positive
+1094,product selection,Positive
+1095,shopping experience,Positive
+1096,gratitude,Positive
+1097,order collection issues,Positive
+1098,promotions and offers,Positive
+1099,long wait times,Positive
+1100,order cancellation,Positive
+1101,communication issues,Positive
+1102,discount appreciation,Positive
+1103,order status updates,Positive
+1104,app assistance,Positive
+1105,value for money,Positive
+1106,repeat purchases,Positive
+1107,store closing hours,Neutral
+1108,store closing hours,Positive
+1109,payment issues,Neutral
+1110,product condition,Positive
+1111,subscription service,Positive
+1112,vegetarian and vegan options,Neutral
+1113,click and collect,Positive
+1114,order tracking,Positive
+1115,store organization,Positive
+1116,refund process,Positive
+1117,lack of respect,Negative
+1118,product selection,Positive
+1119,customer value,Positive
+1120,delivery issues,Positive
+1121,gratitude,Positive
+1122,long wait times,Positive
+1123,shopping experience,Positive
+1124,expert guidance,Positive
+1125,order collection issues,Positive
+1126,lack of respect,Neutral
+1127,unresponsive support,Positive
+1128,product recommendations,Positive
+1129,international shipping,Positive
+1130,product condition,Positive
+1131,order cancellation,Positive
+1132,health concerns,Neutral
+1133,health concerns,Positive
+1134,communication issues,Positive
+1135,online ordering,Positive
+1136,organic products,Positive
+1137,inconsistent experience,Positive
+1138,positive recommendations,Positive
+1139,value for money,Positive
+1140,incomplete orders,Positive
+1141,store display,Positive
+1142,nutritional information,Positive
+1143,product effectiveness,Positive
+1144,staff interaction,Negative
+1145,login issues,Positive
+1146,store organization,Positive
+1147,unresponsive support,Positive
+1148,inconsistent experience,Positive
+1149,store stock availability,Positive
+1150,prompt service,Positive
+1151,intimidating behavior,Negative
+1152,packaging issues,Positive
+1153,pricing issues,Positive
+1154,nutritional information,Positive
+1155,voucher issues,Positive
+1156,expiration date issues,Positive
+1157,order status updates,Positive
+1158,nutritional information,Negative
+1159,price comparison,Positive
+1160,trustworthy products,Positive
+1161,store organization,Positive
+1162,vegetarian and vegan options,Positive
+1163,store display,Neutral
+1164,intimidating behavior,Negative
+1165,friendly staff,Positive
+1166,product recommendations,Positive
+1167,supplement advice,Positive
+1168,incorrect orders,Positive
+1169,trustworthy products,Positive
+1170,incomplete orders,Positive
+1171,gratitude,Positive
+1172,store stock availability,Neutral
+1173,efficient service,Positive
+1174,gratitude,Positive
+1175,intimidating behavior,Negative
+1176,promotion and offers,Positive
+1177,staff knowledge,Positive
+1178,order cancellation,Negative
+1179,expert guidance,Positive
+1180,expert guidance,Positive
+1181,subscription service,Positive
+1182,transparency issues,Positive
+1183,regular customer,Positive
+1184,delivery issues,Positive
+1185,professionalism,Negative
+1186,customer value,Positive
+1187,order tracking,Positive
+1188,staff knowledge,Positive
+1189,product effectiveness,Neutral
+1190,organic products,Positive
+1191,lack of respect,Negative
+1192,online ordering,Positive
+1193,friendly staff,Positive
+1194,impulse buying,Positive
+1195,convenient location,Positive
+1196,expert guidance,Positive
+1197,regular customer,Positive
+1198,menopause advice,Positive
+1199,unresponsive support,Negative
+1200,product condition,Positive
+1201,parcel issues,Positive
+1202,menopause advice,Positive
+1203,faulty/damaged products,Positive
+1204,store stock availability,Neutral
+1205,follow-up issues,Negative
+1206,product selection,Positive
+1207,nutritional information,Positive
+1208,order cancellation,Positive
+1209,order status updates,Positive
+1210,order status updates,Neutral
+1211,regular customer,Positive
+1212,pricing issues,Negative
+1213,click and collect,Positive
+1214,long wait times,Positive
+1215,repeat purchases,Positive
+1216,unresponsive support,Positive
+1217,product selection,Positive
+1218,expiration date issues,Positive
+1219,prompt service,Positive
+1220,customer preferences,Positive
+1221,professionalism,Positive
+1222,miscommunication,Positive
+1223,store display,Positive
+1224,accurate product information,Positive
+1225,impulse buying,Neutral
+1226,product recommendations,Positive
+1227,store organization,Positive
+1228,price comparison,Positive
+1229,follow-up issues,Negative
+1230,impulse buying,Positive
+1231,gratitude,Positive
+1232,promotion and offers,Positive
+1233,convenient location,Positive
+1234,store display,Positive
+1235,gratitude,Positive
+1236,organic products,Positive
+1237,product ingredients,Positive
+1238,pricing issues,Neutral
+1239,customer value,Positive
+1240,parcel issues,Positive
+1241,rewards program,Positive
+1242,product effectiveness,Positive
+1243,expiration date issues,Positive
+1244,long wait times,Negative
+1245,voucher issues,Positive
+1246,long wait times,Positive
+1247,regular customer,Positive
+1248,accurate product information,Negative
+1249,professionalism,Negative
+1250,allergy-sensitive products,Positive
+1251,gratitude,Positive
+1252,faulty/damaged products,Positive
+1253,customer preferences,Positive
+1254,faulty/damaged products,Positive
+1255,rewards program,Positive
+1256,delivery issues,Positive
+1257,customer service feedback,Positive
+1258,brand loyalty,Positive
+1259,expert guidance,Positive
+1260,inconsistent experience,Positive
+1261,friendly staff,Positive
+1262,product ingredients,Neutral
+1263,misleading information,Positive
+1264,discount appreciation,Positive
+1265,vegetarian and vegan options,Positive
+1266,refund process,Positive
+1267,smooth ordering process,Positive
+1268,health products,Positive
+1269,faulty/damaged products,Positive
+1270,login issues,Negative
+1271,customer service feedback,Positive
+1272,efficient service,Positive
+1273,app/website usability issues,Positive
+1274,product condition,Positive
+1275,repeat purchases,Positive
+1276,hair products,Positive
+1277,product recommendations,Positive
+1278,staff interaction,Positive
+1279,value for money,Positive
+1280,misleading information,Negative
+1281,staff interaction,Positive
+1282,app/website usability issues,Positive
+1283,impulse buying,Positive
+1284,rewards program,Positive
+1285,lack of respect,Negative
+1286,shopping experience,Positive
+1287,order collection issues,Neutral
+1288,expert guidance,Positive
+1289,gratitude,Positive
+1290,product selection,Positive
+1291,informative service,Positive
+1292,store organization,Neutral
+1293,impulse buying,Positive
+1294,in-store issues,Positive
+1295,communication issues,Positive
+1296,product ingredients,Neutral
+1297,nutritional information,Positive
+1298,price comparison,Positive
+1299,product effectiveness,Positive
+1300,smooth ordering process,Positive
+1301,order collection issues,Neutral
+1302,repeat purchases,Positive
+1303,discontinued products,Positive
+1304,product selection,Positive
+1305,customer preferences,Positive
+1306,supplement advice,Positive
+1307,lack of respect,Neutral
+1308,long wait times,Positive
+1309,store display,Neutral
+1310,faulty/damaged products,Positive
+1311,app/website usability issues,Positive
+1312,discount appreciation,Positive
+1313,communication issues,Negative
+1314,refund process,Positive
+1315,app/website usability issues,Neutral
+1316,product selection,Positive
+1317,intimidating behavior,Negative
+1318,parcel issues,Positive
+1319,prompt service,Positive
+1320,staff interaction,Positive
+1321,faulty/damaged products,Positive
+1322,app assistance,Positive
+1323,regular customer,Positive
+1324,order tracking,Positive
+1325,order cancellation,Positive
+1326,vegetarian and vegan options,Positive
+1327,positive recommendations,Positive
+1328,unresponsive support,Positive
+1329,order tracking,Positive
+1330,discontinued products,Positive
+1331,login issues,Positive
+1332,expert guidance,Positive
+1333,nutritional information,Positive
+1334,discount appreciation,Positive
+1335,store stock availability,Positive
+1336,nutritional information,Negative
+1337,discrimination,Negative
+1338,menopause advice,Positive
+1339,order tracking,Positive
+1340,gratitude,Positive
+1341,efficient service,Positive
+1342,product ingredients,Positive
+1343,replacement requests,Positive
+1344,organic products,Positive
+1345,follow-up issues,Positive
+1346,intimidating behavior,Negative
+1347,product condition,Positive
+1348,store closing hours,Positive
+1349,discrimination,Neutral
+1350,value for money,Positive
+1351,staff interaction,Negative
+1352,app assistance,Neutral
+1353,store stock availability,Negative
+1354,efficient service,Positive
+1355,store stock availability,Negative
+1356,price comparison,Positive
+1357,price comparison,Positive
+1358,informative service,Positive
+1359,efficient service,Positive
+1360,promotions and offers,Neutral
+1361,voucher issues,Positive
+1362,discontinued products,Neutral
+1363,transparency issues,Positive
+1364,informative service,Positive
+1365,incomplete orders,Positive
+1366,brand loyalty,Neutral
+1367,rewards program,Positive
+1368,customer preferences,Positive
+1369,transparency issues,Positive
+1370,promotions and offers,Positive
+1371,efficient service,Positive
+1372,miscommunication,Positive
+1373,international shipping,Positive
+1374,store stock availability,Positive
+1375,inconsistent policies,Neutral
+1376,accurate product information,Positive
+1377,promotion and offers,Positive
+1378,faulty/damaged products,Positive
+1379,friendly staff,Positive
+1380,incomplete orders,Neutral
+1381,regular customer,Positive
+1382,unresponsive support,Positive
+1383,expiration date issues,Positive
+1384,app assistance,Positive
+1385,replacement requests,Positive
+1386,rewards program,Positive
+1387,login issues,Negative
+1388,customer value,Positive
+1389,informative service,Positive
+1390,staff interaction,Positive
+1391,friendly staff,Positive
+1392,packaging issues,Positive
+1393,inconsistent experience,Neutral
+1394,app/website usability issues,Neutral
+1395,gratitude,Positive
+1396,vegetarian and vegan options,Positive
+1397,prompt service,Positive
+1398,expert guidance,Positive
+1399,replacement requests,Positive
+1400,efficient service,Positive
+1401,health products,Positive
+1402,order cancellation,Positive
+1403,hair products,Positive
+1404,friendly staff,Positive
+1405,international shipping,Positive
+1406,friendly staff,Positive
+1407,efficient service,Positive
+1408,hair products,Positive
+1409,international shipping,Positive
+1410,store stock availability,Positive
+1411,expiration date issues,Positive
+1412,parcel issues,Positive
+1413,online ordering,Positive
+1414,order cancellation,Positive
+1415,discount appreciation,Positive
+1416,transparency issues,Neutral
+1417,in-store issues,Positive
+1418,customer value,Neutral
+1419,misleading information,Positive
+1420,expiration date issues,Positive
+1421,faulty/damaged products,Positive
+1422,gratitude,Positive
+1423,prompt service,Positive
+1424,positive recommendations,Positive
+1425,impulse buying,Positive
+1426,positive recommendations,Positive
+1427,in-store issues,Positive
+1428,unresponsive support,Positive
+1429,subscription service,Positive
+1430,discount appreciation,Positive
+1431,complaint resolution,Neutral
+1432,order collection issues,Positive
+1433,delivery issues,Positive
+1434,lack of respect,Negative
+1435,product condition,Positive
+1436,expert guidance,Positive
+1437,positive recommendations,Positive
+1438,login issues,Positive
+1439,in-store issues,Positive
+1440,store stock availability,Positive
+1441,gratitude,Positive
+1442,value for money,Positive
+1443,inconsistent experience,Neutral
+1444,voucher issues,Positive
+1445,health concerns,Positive
+1446,discount appreciation,Positive
+1447,product recommendations,Positive
+1448,product condition,Positive
+1449,voucher issues,Positive
+1450,organic products,Positive
+1451,discrimination,Negative
+1452,store organization,Neutral
+1453,product recommendations,Positive
+1454,login issues,Positive
+1455,gratitude,Positive
+1456,authentic products,Positive
+1457,app/website usability issues,Positive
+1458,value for money,Positive
+1459,staff interaction,Negative
+1460,pricing issues,Neutral
+1461,store display,Neutral
+1462,authentic products,Positive
+1463,trustworthy products,Positive
+1464,vegetarian and vegan options,Positive
+1465,customer value,Positive
+1466,product recommendations,Positive
+1467,product recommendations,Positive
+1468,app assistance,Positive
+1469,refund process,Positive
+1470,app/website usability issues,Neutral
+1471,repeat purchases,Positive
+1472,faulty/damaged products,Positive
+1473,hair products,Positive
+1474,product selection,Positive
+1475,gratitude,Positive
+1476,incomplete orders,Positive
+1477,brand loyalty,Positive
+1478,incorrect orders,Positive
+1479,discontinued products,Positive
+1480,hair products,Positive
+1481,health concerns,Positive
+1482,nutritional information,Positive
+1483,customer preferences,Negative
+1484,login issues,Negative
+1485,order status updates,Positive
+1486,order not received,Negative
+1487,impulse buying,Positive
+1488,supplement advice,Positive
+1489,store organization,Negative
+1490,pricing issues,Positive
+1491,customer value,Positive
+1492,complaint resolution,Negative
+1493,product recommendations,Positive
+1494,promotion and offers,Positive
+1495,vegetarian and vegan options,Positive
+1496,product effectiveness,Positive
+1497,order collection issues,Positive
+1498,app/website usability issues,Positive
+1499,health concerns,Neutral
+1500,authentic products,Positive
+1501,trustworthy products,Positive
+1502,authentic products,Positive
+1503,product ingredients,Positive
+1504,accurate product information,Positive
+1505,packaging issues,Positive
+1506,price comparison,Positive
+1507,store stock availability,Neutral
+1508,product recommendations,Positive
+1509,complaint resolution,Negative
+1510,brand loyalty,Neutral
+1511,product condition,Positive
+1512,efficient service,Positive
+1513,informative service,Positive
+1514,in-store issues,Positive
+1515,expiration date issues,Positive
+1516,refund process,Negative
+1517,in-store issues,Positive
+1518,app assistance,Positive
+1519,incorrect orders,Positive
+1520,app assistance,Positive
+1521,app/website usability issues,Positive
+1522,menopause advice,Positive
+1523,incomplete orders,Negative
+1524,allergy-sensitive products,Positive
+1525,address issues,Positive
+1526,international shipping,Positive
+1527,health products,Positive
+1528,authentic products,Positive
+1529,follow-up issues,Negative
+1530,product ingredients,Neutral
+1531,refund process,Positive
+1532,inconsistent policies,Positive
+1533,vegetarian and vegan options,Positive
+1534,faulty/damaged products,Positive
+1535,communication issues,Positive
+1536,unresponsive support,Positive
+1537,friendly staff,Positive
+1538,communication issues,Negative
+1539,complaint resolution,Positive
+1540,friendly staff,Positive
+1541,pricing issues,Neutral
+1542,long wait times,Positive
+1543,order cancellation,Positive
+1544,promotion and offers,Positive
+1545,promotions and offers,Positive
+1546,smooth ordering process,Positive
+1547,health products,Positive
+1548,follow-up issues,Positive
+1549,incomplete orders,Negative
+1550,parcel issues,Positive
+1551,refund process,Positive
+1552,subscription service,Positive
+1553,regular customer,Positive
+1554,rewards program,Positive
+1555,refund process,Positive
+1556,brand loyalty,Neutral
+1557,friendly staff,Positive
+1558,product effectiveness,Neutral
+1559,regular customer,Positive
+1560,vegetarian and vegan options,Positive
+1561,brand loyalty,Neutral
+1562,expiration date issues,Positive
+1563,vegetarian and vegan options,Positive
+1564,menopause advice,Positive
+1565,vegetarian and vegan options,Positive
+1566,complaint resolution,Negative
+1567,health products,Positive
+1568,inconsistent experience,Positive
+1569,rewards program,Positive
+1570,trustworthy products,Positive
+1571,promotion and offers,Positive
+1572,efficient service,Positive
+1573,price comparison,Positive
+1574,professionalism,Negative
+1575,expert guidance,Positive
+1576,store stock availability,Neutral
+1577,health products,Positive
+1578,intimidating behavior,Neutral
+1579,product effectiveness,Neutral
+1580,authentic products,Neutral
+1581,store stock availability,Neutral
+1582,positive recommendations,Positive
+1583,product effectiveness,Neutral
+1584,expiration date issues,Positive
+1585,replacement requests,Positive
+1586,follow-up issues,Neutral
+1587,positive recommendations,Positive
+1588,follow-up issues,Positive
+1589,positive recommendations,Positive
+1590,click and collect,Positive
+1591,health products,Positive
+1592,international shipping,Positive
+1593,menopause advice,Positive
+1594,replacement requests,Positive
+1595,refund process,Positive
+1596,online ordering,Positive
+1597,prompt service,Positive
+1598,long wait times,Positive
+1599,order tracking,Positive
+1600,customer value,Positive
+1601,health concerns,Neutral
+1602,transparency issues,Negative
+1603,pricing issues,Positive
+1604,faulty/damaged products,Positive
+1605,lack of respect,Negative
+1606,refund process,Positive
+1607,incorrect orders,Positive
+1608,order collection issues,Positive
+1609,menopause advice,Positive
+1610,store closing hours,Neutral
+1611,follow-up issues,Neutral
+1612,parcel issues,Positive
+1613,nutritional information,Positive
+1614,promotions and offers,Positive
+1615,product recommendations,Positive
+1616,store organization,Positive
+1617,order collection issues,Positive
+1618,order tracking,Positive
+1619,staff interaction,Positive
+1620,packaging issues,Neutral
+1621,health concerns,Positive
+1622,incomplete orders,Positive
+1623,discrimination,Negative
+1624,menopause advice,Positive
+1625,order cancellation,Positive
+1626,health concerns,Neutral
+1627,health concerns,Positive
+1628,click and collect,Positive
+1629,lack of respect,Negative
+1630,order status updates,Positive
+1631,product effectiveness,Positive
+1632,order status updates,Positive
+1633,customer value,Negative
+1634,long wait times,Positive
+1635,customer value,Positive
+1636,impulse buying,Positive
+1637,delivery issues,Positive
+1638,order not received,Positive
+1639,regular customer,Positive
+1640,brand loyalty,Positive
+1641,prompt service,Positive
+1642,accurate product information,Positive
+1643,customer service feedback,Positive
+1644,store organization,Positive
+1645,follow-up issues,Negative
+1646,store display,Neutral
+1647,customer value,Positive
+1648,payment issues,Positive
+1649,positive recommendations,Positive
+1650,order cancellation,Positive
+1651,packaging issues,Neutral
+1652,order status updates,Neutral
+1653,online ordering,Positive
+1654,organic products,Positive
+1655,repeat purchases,Positive
+1656,pricing issues,Positive
+1657,staff interaction,Positive
+1658,misleading information,Negative
+1659,accurate product information,Positive
+1660,prompt service,Positive
+1661,staff interaction,Neutral
+1662,prompt service,Positive
+1663,voucher issues,Positive
+1664,authentic products,Positive
+1665,pricing issues,Positive
+1666,login issues,Positive
+1667,order tracking,Positive
+1668,address issues,Negative
+1669,app assistance,Positive
+1670,expert guidance,Positive
+1671,international shipping,Positive
+1672,promotion and offers,Positive
+1673,product recommendations,Positive
+1674,impulse buying,Positive
+1675,app/website usability issues,Neutral
+1676,incomplete orders,Positive
+1677,product effectiveness,Positive
+1678,rewards program,Positive
+1679,informative service,Positive
+1680,order tracking,Positive
+1681,allergy-sensitive products,Positive
+1682,delivery issues,Positive
+1683,order not received,Positive
+1684,organic products,Positive
+1685,discount appreciation,Positive
+1686,inconsistent policies,Positive
+1687,discrimination,Negative
+1688,organic products,Positive
+1689,accurate product information,Positive
+1690,rewards program,Positive
+1691,authentic products,Positive
+1692,gratitude,Positive
+1693,customer value,Positive
+1694,delivery issues,Positive
+1695,vegetarian and vegan options,Positive
+1696,replacement requests,Positive
+1697,order cancellation,Negative
+1698,subscription service,Positive
+1699,organic products,Positive
+1700,discrimination,Negative
+1701,miscommunication,Positive
+1702,store display,Negative
+1703,promotions and offers,Neutral
+1704,product effectiveness,Neutral
+1705,pricing issues,Positive
+1706,address issues,Positive
+1707,expiration date issues,Positive
+1708,product condition,Positive
+1709,inconsistent experience,Positive
+1710,incorrect orders,Positive
+1711,hair products,Negative
+1712,vegetarian and vegan options,Positive
+1713,product recommendations,Positive
+1714,convenient location,Positive
+1715,shopping experience,Positive
+1716,transparency issues,Negative
+1717,prompt service,Positive
+1718,prompt service,Positive
+1719,app assistance,Positive
+1720,login issues,Positive
+1721,communication issues,Positive
+1722,shopping experience,Positive
+1723,replacement requests,Positive
+1724,customer preferences,Positive
+1725,prompt service,Positive
+1726,shopping experience,Positive
+1727,in-store issues,Neutral
+1728,store organization,Positive
+1729,payment issues,Positive
+1730,follow-up issues,Negative
+1731,unresponsive support,Positive
+1732,store display,Neutral
+1733,address issues,Positive
+1734,click and collect,Positive
+1735,parcel issues,Positive
+1736,value for money,Positive
+1737,product condition,Positive
+1738,inconsistent experience,Neutral
+1739,brand loyalty,Neutral
+1740,brand loyalty,Neutral
+1741,replacement requests,Positive
+1742,follow-up issues,Neutral
+1743,hair products,Positive
+1744,refund process,Positive
+1745,address issues,Positive
+1746,pricing issues,Neutral
+1747,impulse buying,Negative
+1748,friendly staff,Positive
+1749,accurate product information,Positive
+1750,payment issues,Positive
+1751,smooth ordering process,Positive
+1752,price comparison,Positive
+1753,prompt service,Positive
+1754,price comparison,Positive
+1755,menopause advice,Neutral
+1756,prompt service,Positive
+1757,unresponsive support,Positive
+1758,product ingredients,Positive
+1759,staff interaction,Positive
+1760,faulty/damaged products,Positive
+1761,product recommendations,Positive
+1762,gratitude,Positive
+1763,expiration date issues,Positive
+1764,product condition,Positive
+1765,promotions and offers,Positive
+1766,efficient service,Positive
+1767,discontinued products,Neutral
+1768,online ordering,Positive
+1769,promotions and offers,Neutral
+1770,price comparison,Positive
+1771,discount appreciation,Positive
+1772,promotion and offers,Positive
+1773,friendly staff,Positive
+1774,organic products,Positive
+1775,incomplete orders,Positive
+1776,staff knowledge,Neutral
+1777,packaging issues,Positive
+1778,in-store issues,Positive
+1779,hair products,Positive
+1780,replacement requests,Positive
+1781,convenient location,Positive
+1782,store closing hours,Negative
+1783,faulty/damaged products,Positive
+1784,staff knowledge,Positive
+1785,customer value,Positive
+1786,subscription service,Positive
+1787,parcel issues,Positive
+1788,online ordering,Positive
+1789,authentic products,Positive
+1790,expiration date issues,Positive
+1791,repeat purchases,Positive
+1792,vegetarian and vegan options,Positive
+1793,health concerns,Positive
+1794,expert guidance,Positive
+1795,smooth ordering process,Positive
+1796,vegetarian and vegan options,Positive
+1797,nutritional information,Positive
+1798,rewards program,Positive
+1799,discontinued products,Positive
+1800,trustworthy products,Positive
+1801,packaging issues,Neutral
+1802,pricing issues,Neutral
+1803,discount appreciation,Positive
+1804,subscription service,Positive
+1805,expiration date issues,Positive
+1806,professionalism,Negative
+1807,transparency issues,Negative
+1808,discrimination,Negative
+1809,customer value,Positive
+1810,order status updates,Positive
+1811,store organization,Positive
+1812,store stock availability,Positive
+1813,informative service,Positive
+1814,address issues,Positive
+1815,price comparison,Positive
+1816,rewards program,Positive
+1817,order status updates,Positive
+1818,authentic products,Positive
+1819,app assistance,Positive
+1820,organic products,Positive
+1821,store closing hours,Neutral
+1822,product ingredients,Positive
+1823,friendly staff,Positive
+1824,value for money,Neutral
+1825,inconsistent experience,Neutral
+1826,health products,Positive
+1827,shopping experience,Positive
+1828,miscommunication,Positive
+1829,professionalism,Positive
+1830,shopping experience,Positive
+1831,professionalism,Positive
+1832,customer service feedback,Positive
+1833,discount appreciation,Positive
+1834,refund process,Positive
+1835,prompt service,Positive
+1836,customer preferences,Positive
+1837,health concerns,Positive
+1838,in-store issues,Positive
+1839,informative service,Positive
+1840,value for money,Positive
+1841,health products,Positive
+1842,convenient location,Positive
+1843,friendly staff,Positive
+1844,packaging issues,Neutral
+1845,order cancellation,Positive
+1846,order cancellation,Positive
+1847,gratitude,Positive
+1848,convenient location,Positive
+1849,click and collect,Positive
+1850,long wait times,Positive
+1851,product condition,Positive
+1852,repeat purchases,Positive
+1853,customer preferences,Positive
+1854,nutritional information,Positive
+1855,regular customer,Positive
+1856,lack of respect,Negative
+1857,convenient location,Positive
+1858,store display,Positive
+1859,incomplete orders,Positive
+1860,communication issues,Negative
+1861,allergy-sensitive products,Positive
+1862,address issues,Positive
+1863,store stock availability,Positive
+1864,positive recommendations,Positive
+1865,informative service,Positive
+1866,incomplete orders,Positive
+1867,customer service feedback,Negative
+1868,expert guidance,Positive
+1869,store closing hours,Positive
+1870,customer value,Positive
+1871,complaint resolution,Positive
+1872,promotions and offers,Positive
+1873,expert guidance,Positive
+1874,order not received,Positive
+1875,store organization,Positive
+1876,vegetarian and vegan options,Positive
+1877,staff interaction,Positive
+1878,order status updates,Positive
+1879,supplement advice,Positive
+1880,product ingredients,Positive
+1881,delivery issues,Neutral
+1882,international shipping,Positive
+1883,customer preferences,Positive
+1884,online ordering,Positive
+1885,authentic products,Positive
+1886,promotion and offers,Negative
+1887,unresponsive support,Negative
+1888,friendly staff,Positive
+1889,pricing issues,Positive
+1890,complaint resolution,Negative
+1891,packaging issues,Positive
+1892,packaging issues,Positive
+1893,expiration date issues,Negative
+1894,professionalism,Positive
+1895,customer service feedback,Positive
+1896,trustworthy products,Positive
+1897,order cancellation,Positive
+1898,nutritional information,Positive
+1899,efficient service,Positive
+1900,product ingredients,Positive
+1901,click and collect,Positive
+1902,accurate product information,Positive
+1903,friendly staff,Positive
+1904,parcel issues,Positive
+1905,miscommunication,Positive
+1906,informative service,Positive
+1907,product effectiveness,Positive
+1908,prompt service,Positive
+1909,smooth ordering process,Positive
+1910,promotion and offers,Positive
+1911,app/website usability issues,Neutral
+1912,discrimination,Negative
+1913,delivery issues,Positive
+1914,subscription service,Positive
+1915,hair products,Positive
+1916,app assistance,Neutral
+1917,repeat purchases,Positive
+1918,smooth ordering process,Positive
+1919,transparency issues,Positive
+1920,unresponsive support,Positive
+1921,replacement requests,Negative
+1922,promotions and offers,Positive
+1923,product effectiveness,Positive
+1924,promotion and offers,Positive
+1925,discrimination,Negative
+1926,store display,Positive
+1927,hair products,Positive
+1928,order collection issues,Neutral
+1929,app/website usability issues,Positive
+1930,intimidating behavior,Negative
+1931,order tracking,Positive
+1932,value for money,Positive
+1933,staff knowledge,Positive
+1934,login issues,Positive
+1935,shopping experience,Positive
+1936,price comparison,Positive
+1937,informative service,Positive
+1938,friendly staff,Positive
+1939,customer preferences,Positive
+1940,authentic products,Positive
+1941,address issues,Positive
+1942,customer value,Positive
+1943,inconsistent experience,Positive
+1944,order tracking,Positive
+1945,smooth ordering process,Positive
+1946,faulty/damaged products,Positive
+1947,transparency issues,Neutral
+1948,rewards program,Positive
+1949,trustworthy products,Positive
+1950,friendly staff,Positive
+1951,nutritional information,Positive
+1952,international shipping,Positive
+1953,customer value,Positive
+1954,discount appreciation,Positive
+1955,health concerns,Positive
+1956,product recommendations,Positive
+1957,incorrect orders,Positive
+1958,health concerns,Neutral
+1959,login issues,Positive
+1960,product selection,Positive
+1961,incorrect orders,Positive
+1962,impulse buying,Positive
+1963,discount appreciation,Positive
+1964,complaint resolution,Negative
+1965,customer value,Positive
+1966,value for money,Positive
+1967,brand loyalty,Positive
+1968,product ingredients,Positive
+1969,packaging issues,Positive
+1970,store display,Negative
+1971,informative service,Positive
+1972,replacement requests,Positive
+1973,authentic products,Positive
+1974,organic products,Positive
+1975,inconsistent experience,Positive
+1976,international shipping,Positive
+1977,nutritional information,Positive
+1978,order not received,Negative
+1979,packaging issues,Neutral
+1980,discrimination,Negative
+1981,smooth ordering process,Positive
+1982,app assistance,Positive
+1983,unresponsive support,Positive
+1984,staff knowledge,Positive
+1985,convenient location,Positive
+1986,accurate product information,Positive
+1987,inconsistent policies,Positive
+1988,login issues,Positive
+1989,long wait times,Positive
+1990,pricing issues,Positive
+1991,store stock availability,Positive
+1992,customer service feedback,Positive
+1993,refund process,Positive
+1994,friendly staff,Positive
+1995,lack of respect,Neutral
+1996,store stock availability,Neutral
+1997,app/website usability issues,Positive
+1998,shopping experience,Positive
+1999,long wait times,Positive
+2000,in-store issues,Positive
+2001,professionalism,Positive
+2002,order status updates,Positive
+2003,lack of respect,Negative
+2004,faulty/damaged products,Positive
+2005,menopause advice,Positive
+2006,customer preferences,Positive
+2007,order status updates,Positive
+2008,miscommunication,Positive
+2009,discount appreciation,Positive
+2010,product ingredients,Positive
+2011,miscommunication,Positive
+2012,incomplete orders,Positive
+2013,parcel issues,Positive
+2014,discontinued products,Positive
+2015,health products,Positive
+2016,lack of respect,Neutral
+2017,promotions and offers,Positive
+2018,discount appreciation,Positive
+2019,international shipping,Positive
+2020,order not received,Neutral
+2021,refund process,Positive
+2022,authentic products,Positive
+2023,address issues,Positive
+2024,value for money,Negative
+2025,order cancellation,Positive
+2026,refund process,Positive
+2027,app assistance,Neutral
+2028,professionalism,Negative
+2029,click and collect,Positive
+2030,product ingredients,Positive
+2031,miscommunication,Positive
+2032,value for money,Positive
+2033,app assistance,Positive
+2034,impulse buying,Positive
+2035,order cancellation,Positive
+2036,refund process,Positive
+2037,impulse buying,Positive
+2038,staff interaction,Positive
+2039,follow-up issues,Negative
+2040,authentic products,Positive
+2041,gratitude,Positive
+2042,refund process,Negative
+2043,parcel issues,Positive
+2044,in-store issues,Positive
+2045,promotions and offers,Positive
+2046,order cancellation,Positive
+2047,product selection,Positive
+2048,miscommunication,Positive
+2049,accurate product information,Positive
+2050,staff knowledge,Positive
+2051,positive recommendations,Positive
+2052,staff knowledge,Positive
+2053,promotions and offers,Positive
+2054,click and collect,Positive
+2055,long wait times,Positive
+2056,product selection,Positive
+2057,customer service feedback,Negative
+2058,refund process,Positive
+2059,health concerns,Neutral
+2060,expert guidance,Positive
+2061,order cancellation,Positive
+2062,efficient service,Positive
+2063,friendly staff,Positive
+2064,value for money,Positive
+2065,international shipping,Positive
+2066,store display,Positive
+2067,regular customer,Positive
+2068,unresponsive support,Positive
+2069,order collection issues,Positive
+2070,discount appreciation,Positive
+2071,payment issues,Positive
+2072,trustworthy products,Positive
+2073,price comparison,Positive
+2074,login issues,Positive
+2075,order status updates,Neutral
+2076,organic products,Positive
+2077,product condition,Positive
+2078,order tracking,Positive
+2079,professionalism,Positive
+2080,value for money,Positive
+2081,nutritional information,Positive
+2082,promotion and offers,Positive
+2083,impulse buying,Positive
+2084,regular customer,Positive
+2085,incomplete orders,Positive
+2086,faulty/damaged products,Positive
+2087,customer preferences,Positive
+2088,authentic products,Positive
+2089,gratitude,Positive
+2090,transparency issues,Negative
+2091,long wait times,Neutral
+2092,inconsistent experience,Negative
+2093,refund process,Positive
+2094,impulse buying,Negative
+2095,delivery issues,Positive
+2096,order not received,Positive
+2097,order tracking,Positive
+2098,customer value,Positive
+2099,convenient location,Positive
+2100,order cancellation,Positive
+2101,trustworthy products,Positive
+2102,product selection,Positive
+2103,inconsistent policies,Positive
+2104,discontinued products,Positive
+2105,organic products,Positive
+2106,order tracking,Positive
+2107,inconsistent experience,Neutral
+2108,communication issues,Negative
+2109,price comparison,Positive
+2110,app/website usability issues,Positive
+2111,discount appreciation,Positive
+2112,regular customer,Positive
+2113,address issues,Positive
+2114,order not received,Positive
+2115,discrimination,Negative
+2116,positive recommendations,Positive
+2117,staff knowledge,Neutral
+2118,store organization,Positive
+2119,prompt service,Positive
+2120,authentic products,Positive
+2121,follow-up issues,Neutral
+2122,repeat purchases,Positive
+2123,professionalism,Negative
+2124,product condition,Positive
+2125,staff interaction,Negative
+2126,supplement advice,Positive
+2127,product recommendations,Positive
+2128,price comparison,Positive
+2129,incomplete orders,Positive
+2130,impulse buying,Positive
+2131,repeat purchases,Positive
+2132,allergy-sensitive products,Positive
+2133,product condition,Positive
+2134,in-store issues,Positive
+2135,order status updates,Positive
+2136,convenient location,Positive
+2137,voucher issues,Positive
+2138,click and collect,Positive
+2139,promotion and offers,Positive
+2140,transparency issues,Positive
+2141,app assistance,Neutral
+2142,lack of respect,Neutral
+2143,discrimination,Negative
+2144,transparency issues,Neutral
+2145,order status updates,Neutral
+2146,promotion and offers,Positive
+2147,parcel issues,Positive
+2148,store closing hours,Positive
+2149,order status updates,Positive
+2150,organic products,Positive
+2151,order cancellation,Positive
+2152,repeat purchases,Positive
+2153,friendly staff,Positive
+2154,pricing issues,Positive
+2155,subscription service,Positive
+2156,complaint resolution,Negative
+2157,replacement requests,Positive
+2158,price comparison,Positive
+2159,customer preferences,Positive
+2160,in-store issues,Positive
+2161,discount appreciation,Positive
+2162,unresponsive support,Positive
+2163,promotions and offers,Positive
+2164,store display,Negative
+2165,shopping experience,Positive
+2166,login issues,Negative
+2167,order tracking,Positive
+2168,vegetarian and vegan options,Positive
+2169,order status updates,Positive
+2170,miscommunication,Positive
+2171,address issues,Positive
+2172,hair products,Positive
+2173,hair products,Positive
+2174,incorrect orders,Positive
+2175,allergy-sensitive products,Positive
+2176,inconsistent experience,Negative
+2177,customer preferences,Positive
+2178,product condition,Positive
+2179,customer value,Positive
+2180,follow-up issues,Negative
+2181,login issues,Positive
+2182,convenient location,Positive
+2183,accurate product information,Positive
+2184,miscommunication,Positive
+2185,customer preferences,Positive
+2186,professionalism,Positive
+2187,follow-up issues,Neutral
+2188,organic products,Positive
+2189,lack of respect,Negative
+2190,nutritional information,Positive
+2191,inconsistent policies,Neutral
+2192,trustworthy products,Positive
+2193,miscommunication,Positive
+2194,convenient location,Positive
+2195,professionalism,Negative
+2196,promotions and offers,Positive
+2197,customer preferences,Positive
+2198,pricing issues,Positive
+2199,staff interaction,Negative
+2200,staff interaction,Positive
+2201,smooth ordering process,Positive
+2202,international shipping,Positive
+2203,app/website usability issues,Positive
+2204,allergy-sensitive products,Positive
+2205,app/website usability issues,Positive
+2206,staff interaction,Positive
+2207,gratitude,Positive
+2208,promotions and offers,Negative
+2209,follow-up issues,Neutral
+2210,order not received,Positive
+2211,subscription service,Positive
+2212,order not received,Positive
+2213,click and collect,Positive
+2214,order not received,Neutral
+2215,subscription service,Positive
+2216,impulse buying,Positive
+2217,efficient service,Neutral
+2218,login issues,Negative
+2219,incorrect orders,Positive
+2220,payment issues,Positive
+2221,discontinued products,Positive
+2222,informative service,Positive
+2223,app/website usability issues,Positive
+2224,customer preferences,Positive
+2225,refund process,Positive
+2226,voucher issues,Positive
+2227,vegetarian and vegan options,Positive
+2228,order not received,Positive
+2229,convenient location,Positive
+2230,health products,Positive
+2231,store display,Positive
+2232,positive recommendations,Positive
+2233,staff knowledge,Negative
+2234,order not received,Positive
+2235,store organization,Positive
+2236,complaint resolution,Negative
+2237,address issues,Positive
+2238,professionalism,Positive
+2239,hair products,Neutral
+2240,brand loyalty,Positive
+2241,expiration date issues,Negative
+2242,shopping experience,Positive
+2243,supplement advice,Positive
+2244,faulty/damaged products,Positive
+2245,follow-up issues,Positive
+2246,positive recommendations,Positive
+2247,gratitude,Positive
+2248,app assistance,Positive
+2249,complaint resolution,Neutral
+2250,faulty/damaged products,Positive
+2251,regular customer,Positive
+2252,accurate product information,Positive
+2253,positive recommendations,Positive
+2254,friendly staff,Positive
+2255,complaint resolution,Negative
+2256,unresponsive support,Positive
+2257,inconsistent experience,Neutral
+2258,allergy-sensitive products,Positive
+2259,unresponsive support,Positive
+2260,payment issues,Positive
+2261,incorrect orders,Positive
+2262,professionalism,Negative
+2263,friendly staff,Positive
+2264,expiration date issues,Negative
+2265,complaint resolution,Positive
+2266,subscription service,Positive
+2267,trustworthy products,Positive
+2268,price comparison,Positive
+2269,positive recommendations,Positive
+2270,payment issues,Positive
+2271,efficient service,Positive
+2272,regular customer,Positive
+2273,product ingredients,Positive
+2274,shopping experience,Positive
+2275,regular customer,Positive
+2276,parcel issues,Positive
+2277,international shipping,Positive
+2278,long wait times,Neutral
+2279,expert guidance,Positive
+2280,health products,Positive
+2281,packaging issues,Positive
+2282,inconsistent experience,Neutral
+2283,delivery issues,Positive
+2284,delivery issues,Positive
+2285,gratitude,Positive
+2286,value for money,Positive
+2287,unresponsive support,Positive
+2288,health concerns,Positive
+2289,allergy-sensitive products,Positive
+2290,discount appreciation,Positive
+2291,customer service feedback,Neutral
+2292,transparency issues,Neutral
+2293,order cancellation,Positive
+2294,price comparison,Positive
+2295,store display,Positive
+2296,impulse buying,Positive
+2297,promotion and offers,Positive
+2298,complaint resolution,Negative
+2299,nutritional information,Positive
+2300,online ordering,Positive
+2301,supplement advice,Positive
+2302,faulty/damaged products,Positive
+2303,order status updates,Positive
+2304,discrimination,Negative
+2305,store closing hours,Neutral
+2306,product recommendations,Positive
+2307,accurate product information,Positive
+2308,store stock availability,Positive
+2309,friendly staff,Positive
+2310,supplement advice,Positive
+2311,app assistance,Positive
+2312,order status updates,Positive
+2313,faulty/damaged products,Positive
+2314,staff knowledge,Neutral
+2315,store stock availability,Positive
+2316,replacement requests,Negative
+2317,staff knowledge,Positive
+2318,order cancellation,Positive
+2319,order status updates,Positive
+2320,accurate product information,Positive
+2321,discount appreciation,Positive
+2322,customer value,Positive
+2323,international shipping,Positive
+2324,customer value,Positive
+2325,convenient location,Positive
+2326,inconsistent experience,Neutral
+2327,complaint resolution,Neutral
+2328,packaging issues,Positive
+2329,repeat purchases,Positive
+2330,promotion and offers,Positive
+2331,gratitude,Positive
+2332,expert guidance,Positive
+2333,store organization,Neutral
+2334,hair products,Positive
+2335,staff interaction,Negative
+2336,product effectiveness,Positive
+2337,product recommendations,Positive
+2338,online ordering,Positive
+2339,vegetarian and vegan options,Positive
+2340,smooth ordering process,Positive
+2341,staff interaction,Negative
+2342,parcel issues,Positive
+2343,friendly staff,Positive
+2344,nutritional information,Positive
+2345,incorrect orders,Positive
+2346,incorrect orders,Positive
