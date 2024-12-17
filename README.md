@@ -13,6 +13,8 @@
 * Uses the query results to create a condensed answer for the user questions.
 * Also added an indirect mode for more vaugue questions, which rewrites the question to be more grounded in the available data.
 
+Note: All the PII from the users seems to already be redacted from the dataset so that module wasn't implemented.
+
 To run:
 ```bash
 python cli.py
